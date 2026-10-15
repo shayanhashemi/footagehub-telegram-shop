@@ -1,0 +1,149 @@
+generator client {
+  provider = "prisma-client-js"
+}
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+enum ProductType { PACK SINGLE }
+enum ProductStatus { DRAFT PUBLISHED HIDDEN ARCHIVED }
+enum AccessType { FREE PURCHASE PRO PURCHASE_OR_PRO }
+enum OrderStatus { PENDING PAID REFUNDED CANCELLED }
+enum EntitlementSource { PURCHASE GRANT }
+
+model Admin {
+  id           Int            @id @default(autoincrement())
+  email        String         @unique @db.VarChar(190)
+  passwordHash String         @db.VarChar(255)
+  sessions     AdminSession[]
+  createdAt    DateTime       @default(now())
+}
+model AdminSession {
+  id        String   @id @default(cuid())
+  adminId   Int
+  admin     Admin    @relation(fields: [adminId], references: [id], onDelete: Cascade)
+  tokenHash String   @unique @db.Char(64)
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  @@index([expiresAt])
+}
+model Category {
+  id        Int        @id @default(autoincrement())
+  code      String     @unique @db.VarChar(100)
+  parentId  Int?
+  parent    Category?  @relation("CategoryTree", fields: [parentId], references: [id], onDelete: Restrict)
+  children  Category[] @relation("CategoryTree")
+  groupKey  String?    @db.VarChar(80)
+  nameFa    String     @db.VarChar(190)
+  nameEn    String     @db.VarChar(190)
+  slug      String     @db.VarChar(210)
+  active    Boolean    @default(true)
+  sortOrder Int        @default(0)
+  products  Product[]
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  @@index([parentId,active,sortOrder])
+}
+model Product {
+  id             Int           @id @default(autoincrement())
+  sku            String        @unique @db.VarChar(100)
+  categoryId     Int
+  category       Category      @relation(fields: [categoryId], references: [id], onDelete: Restrict)
+  titleFa        String        @db.VarChar(255)
+  titleEn        String        @db.VarChar(255)
+  descriptionFa  String        @db.Text
+  descriptionEn  String        @db.Text
+  type           ProductType   @default(PACK)
+  status         ProductStatus @default(DRAFT)
+  accessType     AccessType    @default(PURCHASE)
+  rightsVerified Boolean       @default(false)
+  starsPrice     Int?
+  coverUrl       String?       @db.Text
+  previewUrl     String?       @db.Text
+  fileFormat     String?       @db.VarChar(80)
+  fileCount      Int?
+  fileSizeMb     Float?
+  resolution     String?       @db.VarChar(120)
+  fps            Int?
+  software       String?       @db.VarChar(160)
+  tags           String        @db.Text
+  sortOrder      Int           @default(0)
+  files          ProductFile[]
+  orders         Order[]
+  entitlements   Entitlement[]
+  createdAt      DateTime      @default(now())
+  updatedAt      DateTime      @updatedAt
+  @@index([status,categoryId,createdAt])
+}
+model ProductFile {
+  id         Int       @id @default(autoincrement())
+  productId  Int
+  product    Product   @relation(fields: [productId], references: [id], onDelete: Cascade)
+  label      String    @db.VarChar(190)
+  privateUrl String    @db.Text
+  fileName   String?   @db.VarChar(255)
+  createdAt  DateTime  @default(now())
+}
+model User {
+  id            Int           @id @default(autoincrement())
+  telegramId    String        @unique @db.VarChar(32)
+  displayName   String?       @db.VarChar(190)
+  language      String        @default("fa") @db.VarChar(2)
+  awaitingSearch Boolean      @default(false)
+  searchTerm    String?       @db.VarChar(100)
+  isBlocked     Boolean       @default(false)
+  orders        Order[]
+  entitlements  Entitlement[]
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+}
+model Order {
+  id          String      @id @default(cuid())
+  userId      Int
+  user        User        @relation(fields: [userId], references: [id], onDelete: Restrict)
+  productId   Int
+  product     Product     @relation(fields: [productId], references: [id], onDelete: Restrict)
+  amountXtr   Int
+  status      OrderStatus @default(PENDING)
+  payments    Payment[]
+  createdAt   DateTime    @default(now())
+  paidAt      DateTime?
+  @@index([userId,status])
+  @@index([createdAt])
+}
+model Payment {
+  id                       Int      @id @default(autoincrement())
+  orderId                  String   @unique
+  order                    Order    @relation(fields: [orderId], references: [id], onDelete: Restrict)
+  telegramPaymentChargeId  String   @unique @db.VarChar(255)
+  refundStatus             String   @default("NONE") @db.VarChar(30)
+  paidAt                   DateTime @default(now())
+}
+model Entitlement {
+  id         Int               @id @default(autoincrement())
+  userId     Int
+  user       User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  productId  Int
+  product    Product           @relation(fields: [productId], references: [id], onDelete: Cascade)
+  source     EntitlementSource @default(PURCHASE)
+  validUntil DateTime?
+  status     String            @default("ACTIVE") @db.VarChar(20)
+  createdAt  DateTime          @default(now())
+  @@unique([userId,productId,source])
+}
+model Setting {
+  key       String   @id @db.VarChar(100)
+  value     String   @db.Text
+  updatedAt DateTime @updatedAt
+}
+model AuditLog {
+  id        Int      @id @default(autoincrement())
+  adminId   Int?
+  action    String   @db.VarChar(100)
+  entity    String   @db.VarChar(80)
+  entityId  String?  @db.VarChar(100)
+  detail    String?  @db.Text
+  createdAt DateTime @default(now())
+  @@index([createdAt])
+}

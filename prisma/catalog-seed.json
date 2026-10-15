@@ -1,0 +1,4266 @@
+{
+  "groups": [
+    "Video & Footage",
+    "Effects & Color",
+    "Projects & Templates",
+    "Presets & Motion",
+    "Audio Assets",
+    "Design & 3D",
+    "Tools & Other Apps"
+  ],
+  "categories": [
+    {
+      "number": 1,
+      "group": "Video & Footage",
+      "nameEn": "Footages",
+      "nameFa": "فوتیج‌ها",
+      "code": "FOOT",
+      "type": "Pack",
+      "subcategoryCount": 24
+    },
+    {
+      "number": 2,
+      "group": "Video & Footage",
+      "nameEn": "VFX Elements",
+      "nameFa": "المان‌های جلوه ویژه",
+      "code": "VFX",
+      "type": "Pack",
+      "subcategoryCount": 24
+    },
+    {
+      "number": 3,
+      "group": "Video & Footage",
+      "nameEn": "Overlays",
+      "nameFa": "اورلی‌ها",
+      "code": "OVL",
+      "type": "Pack",
+      "subcategoryCount": 21
+    },
+    {
+      "number": 4,
+      "group": "Video & Footage",
+      "nameEn": "Green Screen & Alpha",
+      "nameFa": "گرین‌اسکرین و آلفا",
+      "code": "ALPHA",
+      "type": "Pack",
+      "subcategoryCount": 19
+    },
+    {
+      "number": 5,
+      "group": "Video & Footage",
+      "nameEn": "Motion Backgrounds",
+      "nameFa": "پس‌زمینه‌های متحرک",
+      "code": "BG",
+      "type": "Pack",
+      "subcategoryCount": 23
+    },
+    {
+      "number": 6,
+      "group": "Effects & Color",
+      "nameEn": "Textures",
+      "nameFa": "تکسچرها",
+      "code": "TEX",
+      "type": "Pack",
+      "subcategoryCount": 26
+    },
+    {
+      "number": 7,
+      "group": "Effects & Color",
+      "nameEn": "Transitions",
+      "nameFa": "ترنزیشن‌ها",
+      "code": "TRN",
+      "type": "Pack",
+      "subcategoryCount": 24
+    },
+    {
+      "number": 8,
+      "group": "Effects & Color",
+      "nameEn": "LUTs & Color Grading",
+      "nameFa": "لات‌ها و اصلاح رنگ",
+      "code": "LUT",
+      "type": "Pack",
+      "subcategoryCount": 23
+    },
+    {
+      "number": 9,
+      "group": "Projects & Templates",
+      "nameEn": "After Effects Projects",
+      "nameFa": "پروژه‌های افترافکت",
+      "code": "AE",
+      "type": "Single",
+      "subcategoryCount": 19
+    },
+    {
+      "number": 10,
+      "group": "Projects & Templates",
+      "nameEn": "Premiere Pro Projects",
+      "nameFa": "پروژه‌های پریمیر",
+      "code": "PR",
+      "type": "Single",
+      "subcategoryCount": 19
+    },
+    {
+      "number": 11,
+      "group": "Projects & Templates",
+      "nameEn": "Logo Motions",
+      "nameFa": "لوگوموشن‌ها",
+      "code": "LOGO",
+      "type": "Single",
+      "subcategoryCount": 24
+    },
+    {
+      "number": 12,
+      "group": "Projects & Templates",
+      "nameEn": "Slideshows",
+      "nameFa": "اسلایدشوها",
+      "code": "SLIDE",
+      "type": "Single",
+      "subcategoryCount": 21
+    },
+    {
+      "number": 13,
+      "group": "Projects & Templates",
+      "nameEn": "MOGRT Templates",
+      "nameFa": "قالب‌های موگرت",
+      "code": "MOGRT",
+      "type": "Pack",
+      "subcategoryCount": 18
+    },
+    {
+      "number": 14,
+      "group": "Projects & Templates",
+      "nameEn": "Titles & Text Animations",
+      "nameFa": "تایتل و انیمیشن متن",
+      "code": "TITLE",
+      "type": "Pack",
+      "subcategoryCount": 20
+    },
+    {
+      "number": 15,
+      "group": "Presets & Motion",
+      "nameEn": "After Effects Presets",
+      "nameFa": "پریست‌های افترافکت",
+      "code": "AEP",
+      "type": "Pack",
+      "subcategoryCount": 19
+    },
+    {
+      "number": 16,
+      "group": "Presets & Motion",
+      "nameEn": "Premiere Presets",
+      "nameFa": "پریست‌های پریمیر",
+      "code": "PRP",
+      "type": "Pack",
+      "subcategoryCount": 18
+    },
+    {
+      "number": 17,
+      "group": "Presets & Motion",
+      "nameEn": "Social Media Templates",
+      "nameFa": "قالب‌های شبکه اجتماعی",
+      "code": "SOC",
+      "type": "Pack",
+      "subcategoryCount": 18
+    },
+    {
+      "number": 18,
+      "group": "Presets & Motion",
+      "nameEn": "Infographics & HUD",
+      "nameFa": "اینفوگرافیک و HUD",
+      "code": "INFO",
+      "type": "Pack",
+      "subcategoryCount": 17
+    },
+    {
+      "number": 19,
+      "group": "Presets & Motion",
+      "nameEn": "Broadcast & Streaming",
+      "nameFa": "برادکست و استریم",
+      "code": "BRD",
+      "type": "Pack",
+      "subcategoryCount": 17
+    },
+    {
+      "number": 20,
+      "group": "Audio Assets",
+      "nameEn": "Sound Effects (SFX)",
+      "nameFa": "افکت‌های صوتی",
+      "code": "SFX",
+      "type": "Pack",
+      "subcategoryCount": 28
+    },
+    {
+      "number": 21,
+      "group": "Audio Assets",
+      "nameEn": "Music & Audio Loops",
+      "nameFa": "موسیقی و لوپ صوتی",
+      "code": "MUSIC",
+      "type": "Pack",
+      "subcategoryCount": 23
+    },
+    {
+      "number": 22,
+      "group": "Design & 3D",
+      "nameEn": "Motion Graphics Elements",
+      "nameFa": "المان‌های موشن‌گرافیک",
+      "code": "MGE",
+      "type": "Pack",
+      "subcategoryCount": 18
+    },
+    {
+      "number": 23,
+      "group": "Design & 3D",
+      "nameEn": "Graphics & Design Assets",
+      "nameFa": "دارایی‌های گرافیکی",
+      "code": "DES",
+      "type": "Pack",
+      "subcategoryCount": 20
+    },
+    {
+      "number": 24,
+      "group": "Design & 3D",
+      "nameEn": "Fonts & Typography",
+      "nameFa": "فونت‌ها",
+      "code": "FONT",
+      "type": "Pack",
+      "subcategoryCount": 21
+    },
+    {
+      "number": 25,
+      "group": "Design & 3D",
+      "nameEn": "3D Assets",
+      "nameFa": "فایل‌های سه‌بعدی",
+      "code": "3D",
+      "type": "Pack",
+      "subcategoryCount": 19
+    },
+    {
+      "number": 26,
+      "group": "Tools & Other Apps",
+      "nameEn": "Plugins & Scripts",
+      "nameFa": "پلاگین و اسکریپت",
+      "code": "TOOL",
+      "type": "Single",
+      "subcategoryCount": 16
+    },
+    {
+      "number": 27,
+      "group": "Tools & Other Apps",
+      "nameEn": "DaVinci Resolve Assets",
+      "nameFa": "فایل‌های داوینچی",
+      "code": "DR",
+      "type": "Pack",
+      "subcategoryCount": 12
+    },
+    {
+      "number": 28,
+      "group": "Tools & Other Apps",
+      "nameEn": "Final Cut Pro Assets",
+      "nameFa": "فایل‌های فاینال‌کات",
+      "code": "FCP",
+      "type": "Pack",
+      "subcategoryCount": 10
+    },
+    {
+      "number": 29,
+      "group": "Tools & Other Apps",
+      "nameEn": "Mobile Editing Assets",
+      "nameFa": "فایل‌های ادیت موبایل",
+      "code": "MB",
+      "type": "Pack",
+      "subcategoryCount": 9
+    }
+  ],
+  "subcategories": [
+    {
+      "code": "01-001",
+      "parentNumber": 1,
+      "nameEn": "Rain",
+      "group": "Video & Footage",
+      "prefix": "FOOT-RAIN"
+    },
+    {
+      "code": "01-002",
+      "parentNumber": 1,
+      "nameEn": "Blood",
+      "group": "Video & Footage",
+      "prefix": "FOOT-BLOOD"
+    },
+    {
+      "code": "01-003",
+      "parentNumber": 1,
+      "nameEn": "Snow",
+      "group": "Video & Footage",
+      "prefix": "FOOT-SNOW"
+    },
+    {
+      "code": "01-004",
+      "parentNumber": 1,
+      "nameEn": "Bullets",
+      "group": "Video & Footage",
+      "prefix": "FOOT-BULLETS"
+    },
+    {
+      "code": "01-005",
+      "parentNumber": 1,
+      "nameEn": "Ink",
+      "group": "Video & Footage",
+      "prefix": "FOOT-INK"
+    },
+    {
+      "code": "01-006",
+      "parentNumber": 1,
+      "nameEn": "Fire",
+      "group": "Video & Footage",
+      "prefix": "FOOT-FIRE"
+    },
+    {
+      "code": "01-007",
+      "parentNumber": 1,
+      "nameEn": "Smoke",
+      "group": "Video & Footage",
+      "prefix": "FOOT-SMOKE"
+    },
+    {
+      "code": "01-008",
+      "parentNumber": 1,
+      "nameEn": "Explosions",
+      "group": "Video & Footage",
+      "prefix": "FOOT-EXPLOSIONS"
+    },
+    {
+      "code": "01-009",
+      "parentNumber": 1,
+      "nameEn": "Sparks",
+      "group": "Video & Footage",
+      "prefix": "FOOT-SPARKS"
+    },
+    {
+      "code": "01-010",
+      "parentNumber": 1,
+      "nameEn": "Lightning",
+      "group": "Video & Footage",
+      "prefix": "FOOT-LIGHTNING"
+    },
+    {
+      "code": "01-011",
+      "parentNumber": 1,
+      "nameEn": "Water",
+      "group": "Video & Footage",
+      "prefix": "FOOT-WATER"
+    },
+    {
+      "code": "01-012",
+      "parentNumber": 1,
+      "nameEn": "Clouds",
+      "group": "Video & Footage",
+      "prefix": "FOOT-CLOUDS"
+    },
+    {
+      "code": "01-013",
+      "parentNumber": 1,
+      "nameEn": "Dust",
+      "group": "Video & Footage",
+      "prefix": "FOOT-DUST"
+    },
+    {
+      "code": "01-014",
+      "parentNumber": 1,
+      "nameEn": "Wind",
+      "group": "Video & Footage",
+      "prefix": "FOOT-WIND"
+    },
+    {
+      "code": "01-015",
+      "parentNumber": 1,
+      "nameEn": "Nature",
+      "group": "Video & Footage",
+      "prefix": "FOOT-NATURE"
+    },
+    {
+      "code": "01-016",
+      "parentNumber": 1,
+      "nameEn": "City",
+      "group": "Video & Footage",
+      "prefix": "FOOT-CITY"
+    },
+    {
+      "code": "01-017",
+      "parentNumber": 1,
+      "nameEn": "Drone",
+      "group": "Video & Footage",
+      "prefix": "FOOT-DRONE"
+    },
+    {
+      "code": "01-018",
+      "parentNumber": 1,
+      "nameEn": "Vehicles",
+      "group": "Video & Footage",
+      "prefix": "FOOT-VEHICLES"
+    },
+    {
+      "code": "01-019",
+      "parentNumber": 1,
+      "nameEn": "People",
+      "group": "Video & Footage",
+      "prefix": "FOOT-PEOPLE"
+    },
+    {
+      "code": "01-020",
+      "parentNumber": 1,
+      "nameEn": "Animals",
+      "group": "Video & Footage",
+      "prefix": "FOOT-ANIMALS"
+    },
+    {
+      "code": "01-021",
+      "parentNumber": 1,
+      "nameEn": "Space",
+      "group": "Video & Footage",
+      "prefix": "FOOT-SPACE"
+    },
+    {
+      "code": "01-022",
+      "parentNumber": 1,
+      "nameEn": "Underwater",
+      "group": "Video & Footage",
+      "prefix": "FOOT-UNDERWATER"
+    },
+    {
+      "code": "01-023",
+      "parentNumber": 1,
+      "nameEn": "Timelapse",
+      "group": "Video & Footage",
+      "prefix": "FOOT-TIMELAPSE"
+    },
+    {
+      "code": "01-024",
+      "parentNumber": 1,
+      "nameEn": "Slow Motion",
+      "group": "Video & Footage",
+      "prefix": "FOOT-SLOW-MOTION"
+    },
+    {
+      "code": "02-001",
+      "parentNumber": 2,
+      "nameEn": "Blood Splatter",
+      "group": "Video & Footage",
+      "prefix": "VFX-BLOOD-SPLATTER"
+    },
+    {
+      "code": "02-002",
+      "parentNumber": 2,
+      "nameEn": "Bullet Impact",
+      "group": "Video & Footage",
+      "prefix": "VFX-BULLET-IMPACT"
+    },
+    {
+      "code": "02-003",
+      "parentNumber": 2,
+      "nameEn": "Muzzle Flash",
+      "group": "Video & Footage",
+      "prefix": "VFX-MUZZLE-FLASH"
+    },
+    {
+      "code": "02-004",
+      "parentNumber": 2,
+      "nameEn": "Gunshots",
+      "group": "Video & Footage",
+      "prefix": "VFX-GUNSHOTS"
+    },
+    {
+      "code": "02-005",
+      "parentNumber": 2,
+      "nameEn": "Fireball",
+      "group": "Video & Footage",
+      "prefix": "VFX-FIREBALL"
+    },
+    {
+      "code": "02-006",
+      "parentNumber": 2,
+      "nameEn": "Explosions",
+      "group": "Video & Footage",
+      "prefix": "VFX-EXPLOSIONS"
+    },
+    {
+      "code": "02-007",
+      "parentNumber": 2,
+      "nameEn": "Smoke Blast",
+      "group": "Video & Footage",
+      "prefix": "VFX-SMOKE-BLAST"
+    },
+    {
+      "code": "02-008",
+      "parentNumber": 2,
+      "nameEn": "Debris",
+      "group": "Video & Footage",
+      "prefix": "VFX-DEBRIS"
+    },
+    {
+      "code": "02-009",
+      "parentNumber": 2,
+      "nameEn": "Destruction",
+      "group": "Video & Footage",
+      "prefix": "VFX-DESTRUCTION"
+    },
+    {
+      "code": "02-010",
+      "parentNumber": 2,
+      "nameEn": "Glass Shatter",
+      "group": "Video & Footage",
+      "prefix": "VFX-GLASS-SHATTER"
+    },
+    {
+      "code": "02-011",
+      "parentNumber": 2,
+      "nameEn": "Laser",
+      "group": "Video & Footage",
+      "prefix": "VFX-LASER"
+    },
+    {
+      "code": "02-012",
+      "parentNumber": 2,
+      "nameEn": "Energy",
+      "group": "Video & Footage",
+      "prefix": "VFX-ENERGY"
+    },
+    {
+      "code": "02-013",
+      "parentNumber": 2,
+      "nameEn": "Magic",
+      "group": "Video & Footage",
+      "prefix": "VFX-MAGIC"
+    },
+    {
+      "code": "02-014",
+      "parentNumber": 2,
+      "nameEn": "Electric Arcs",
+      "group": "Video & Footage",
+      "prefix": "VFX-ELECTRIC-ARCS"
+    },
+    {
+      "code": "02-015",
+      "parentNumber": 2,
+      "nameEn": "Shockwave",
+      "group": "Video & Footage",
+      "prefix": "VFX-SHOCKWAVE"
+    },
+    {
+      "code": "02-016",
+      "parentNumber": 2,
+      "nameEn": "Meteor",
+      "group": "Video & Footage",
+      "prefix": "VFX-METEOR"
+    },
+    {
+      "code": "02-017",
+      "parentNumber": 2,
+      "nameEn": "Portal",
+      "group": "Video & Footage",
+      "prefix": "VFX-PORTAL"
+    },
+    {
+      "code": "02-018",
+      "parentNumber": 2,
+      "nameEn": "Water Splash",
+      "group": "Video & Footage",
+      "prefix": "VFX-WATER-SPLASH"
+    },
+    {
+      "code": "02-019",
+      "parentNumber": 2,
+      "nameEn": "Liquid Effects",
+      "group": "Video & Footage",
+      "prefix": "VFX-LIQUID-EFFECTS"
+    },
+    {
+      "code": "02-020",
+      "parentNumber": 2,
+      "nameEn": "Sparks",
+      "group": "Video & Footage",
+      "prefix": "VFX-SPARKS"
+    },
+    {
+      "code": "02-021",
+      "parentNumber": 2,
+      "nameEn": "Embers",
+      "group": "Video & Footage",
+      "prefix": "VFX-EMBERS"
+    },
+    {
+      "code": "02-022",
+      "parentNumber": 2,
+      "nameEn": "Fire Trails",
+      "group": "Video & Footage",
+      "prefix": "VFX-FIRE-TRAILS"
+    },
+    {
+      "code": "02-023",
+      "parentNumber": 2,
+      "nameEn": "Dust Impact",
+      "group": "Video & Footage",
+      "prefix": "VFX-DUST-IMPACT"
+    },
+    {
+      "code": "02-024",
+      "parentNumber": 2,
+      "nameEn": "Sci-Fi Effects",
+      "group": "Video & Footage",
+      "prefix": "VFX-SCI-FI-EFFECTS"
+    },
+    {
+      "code": "03-001",
+      "parentNumber": 3,
+      "nameEn": "Light Leaks",
+      "group": "Video & Footage",
+      "prefix": "OVL-LIGHT-LEAKS"
+    },
+    {
+      "code": "03-002",
+      "parentNumber": 3,
+      "nameEn": "Film Burns",
+      "group": "Video & Footage",
+      "prefix": "OVL-FILM-BURNS"
+    },
+    {
+      "code": "03-003",
+      "parentNumber": 3,
+      "nameEn": "Lens Flares",
+      "group": "Video & Footage",
+      "prefix": "OVL-LENS-FLARES"
+    },
+    {
+      "code": "03-004",
+      "parentNumber": 3,
+      "nameEn": "Film Grain",
+      "group": "Video & Footage",
+      "prefix": "OVL-FILM-GRAIN"
+    },
+    {
+      "code": "03-005",
+      "parentNumber": 3,
+      "nameEn": "Dust",
+      "group": "Video & Footage",
+      "prefix": "OVL-DUST"
+    },
+    {
+      "code": "03-006",
+      "parentNumber": 3,
+      "nameEn": "Scratches",
+      "group": "Video & Footage",
+      "prefix": "OVL-SCRATCHES"
+    },
+    {
+      "code": "03-007",
+      "parentNumber": 3,
+      "nameEn": "Bokeh",
+      "group": "Video & Footage",
+      "prefix": "OVL-BOKEH"
+    },
+    {
+      "code": "03-008",
+      "parentNumber": 3,
+      "nameEn": "Glitch",
+      "group": "Video & Footage",
+      "prefix": "OVL-GLITCH"
+    },
+    {
+      "code": "03-009",
+      "parentNumber": 3,
+      "nameEn": "VHS",
+      "group": "Video & Footage",
+      "prefix": "OVL-VHS"
+    },
+    {
+      "code": "03-010",
+      "parentNumber": 3,
+      "nameEn": "Noise",
+      "group": "Video & Footage",
+      "prefix": "OVL-NOISE"
+    },
+    {
+      "code": "03-011",
+      "parentNumber": 3,
+      "nameEn": "Hologram",
+      "group": "Video & Footage",
+      "prefix": "OVL-HOLOGRAM"
+    },
+    {
+      "code": "03-012",
+      "parentNumber": 3,
+      "nameEn": "Prism",
+      "group": "Video & Footage",
+      "prefix": "OVL-PRISM"
+    },
+    {
+      "code": "03-013",
+      "parentNumber": 3,
+      "nameEn": "Chromatic Aberration",
+      "group": "Video & Footage",
+      "prefix": "OVL-CHROMATIC-ABERRATION"
+    },
+    {
+      "code": "03-014",
+      "parentNumber": 3,
+      "nameEn": "Light Rays",
+      "group": "Video & Footage",
+      "prefix": "OVL-LIGHT-RAYS"
+    },
+    {
+      "code": "03-015",
+      "parentNumber": 3,
+      "nameEn": "Shadow Overlays",
+      "group": "Video & Footage",
+      "prefix": "OVL-SHADOW-OVERLAYS"
+    },
+    {
+      "code": "03-016",
+      "parentNumber": 3,
+      "nameEn": "Smoke Overlays",
+      "group": "Video & Footage",
+      "prefix": "OVL-SMOKE-OVERLAYS"
+    },
+    {
+      "code": "03-017",
+      "parentNumber": 3,
+      "nameEn": "Rain on Glass",
+      "group": "Video & Footage",
+      "prefix": "OVL-RAIN-ON-GLASS"
+    },
+    {
+      "code": "03-018",
+      "parentNumber": 3,
+      "nameEn": "Fog",
+      "group": "Video & Footage",
+      "prefix": "OVL-FOG"
+    },
+    {
+      "code": "03-019",
+      "parentNumber": 3,
+      "nameEn": "Vintage Film",
+      "group": "Video & Footage",
+      "prefix": "OVL-VINTAGE-FILM"
+    },
+    {
+      "code": "03-020",
+      "parentNumber": 3,
+      "nameEn": "Grunge",
+      "group": "Video & Footage",
+      "prefix": "OVL-GRUNGE"
+    },
+    {
+      "code": "03-021",
+      "parentNumber": 3,
+      "nameEn": "Cinematic Overlays",
+      "group": "Video & Footage",
+      "prefix": "OVL-CINEMATIC-OVERLAYS"
+    },
+    {
+      "code": "04-001",
+      "parentNumber": 4,
+      "nameEn": "People",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-PEOPLE"
+    },
+    {
+      "code": "04-002",
+      "parentNumber": 4,
+      "nameEn": "Hands",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-HANDS"
+    },
+    {
+      "code": "04-003",
+      "parentNumber": 4,
+      "nameEn": "Animals",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-ANIMALS"
+    },
+    {
+      "code": "04-004",
+      "parentNumber": 4,
+      "nameEn": "Fire",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-FIRE"
+    },
+    {
+      "code": "04-005",
+      "parentNumber": 4,
+      "nameEn": "Smoke",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-SMOKE"
+    },
+    {
+      "code": "04-006",
+      "parentNumber": 4,
+      "nameEn": "Rain",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-RAIN"
+    },
+    {
+      "code": "04-007",
+      "parentNumber": 4,
+      "nameEn": "Snow",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-SNOW"
+    },
+    {
+      "code": "04-008",
+      "parentNumber": 4,
+      "nameEn": "Confetti",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-CONFETTI"
+    },
+    {
+      "code": "04-009",
+      "parentNumber": 4,
+      "nameEn": "Falling Objects",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-FALLING-OBJECTS"
+    },
+    {
+      "code": "04-010",
+      "parentNumber": 4,
+      "nameEn": "Money",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-MONEY"
+    },
+    {
+      "code": "04-011",
+      "parentNumber": 4,
+      "nameEn": "Explosions",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-EXPLOSIONS"
+    },
+    {
+      "code": "04-012",
+      "parentNumber": 4,
+      "nameEn": "Screen Replacements",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-SCREEN-REPLACEMENTS"
+    },
+    {
+      "code": "04-013",
+      "parentNumber": 4,
+      "nameEn": "Smartphone Screens",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-SMARTPHONE-SCREENS"
+    },
+    {
+      "code": "04-014",
+      "parentNumber": 4,
+      "nameEn": "TV Screens",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-TV-SCREENS"
+    },
+    {
+      "code": "04-015",
+      "parentNumber": 4,
+      "nameEn": "Computer Screens",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-COMPUTER-SCREENS"
+    },
+    {
+      "code": "04-016",
+      "parentNumber": 4,
+      "nameEn": "Subscribe Animations",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-SUBSCRIBE-ANIMATIONS"
+    },
+    {
+      "code": "04-017",
+      "parentNumber": 4,
+      "nameEn": "Social Icons",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-SOCIAL-ICONS"
+    },
+    {
+      "code": "04-018",
+      "parentNumber": 4,
+      "nameEn": "UI Elements",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-UI-ELEMENTS"
+    },
+    {
+      "code": "04-019",
+      "parentNumber": 4,
+      "nameEn": "Transparent VFX",
+      "group": "Video & Footage",
+      "prefix": "ALPHA-TRANSPARENT-VFX"
+    },
+    {
+      "code": "05-001",
+      "parentNumber": 5,
+      "nameEn": "Abstract",
+      "group": "Video & Footage",
+      "prefix": "BG-ABSTRACT"
+    },
+    {
+      "code": "05-002",
+      "parentNumber": 5,
+      "nameEn": "Gradient",
+      "group": "Video & Footage",
+      "prefix": "BG-GRADIENT"
+    },
+    {
+      "code": "05-003",
+      "parentNumber": 5,
+      "nameEn": "Neon",
+      "group": "Video & Footage",
+      "prefix": "BG-NEON"
+    },
+    {
+      "code": "05-004",
+      "parentNumber": 5,
+      "nameEn": "Particles",
+      "group": "Video & Footage",
+      "prefix": "BG-PARTICLES"
+    },
+    {
+      "code": "05-005",
+      "parentNumber": 5,
+      "nameEn": "Bokeh",
+      "group": "Video & Footage",
+      "prefix": "BG-BOKEH"
+    },
+    {
+      "code": "05-006",
+      "parentNumber": 5,
+      "nameEn": "Space",
+      "group": "Video & Footage",
+      "prefix": "BG-SPACE"
+    },
+    {
+      "code": "05-007",
+      "parentNumber": 5,
+      "nameEn": "Galaxy",
+      "group": "Video & Footage",
+      "prefix": "BG-GALAXY"
+    },
+    {
+      "code": "05-008",
+      "parentNumber": 5,
+      "nameEn": "Stars",
+      "group": "Video & Footage",
+      "prefix": "BG-STARS"
+    },
+    {
+      "code": "05-009",
+      "parentNumber": 5,
+      "nameEn": "Smoke",
+      "group": "Video & Footage",
+      "prefix": "BG-SMOKE"
+    },
+    {
+      "code": "05-010",
+      "parentNumber": 5,
+      "nameEn": "Fire",
+      "group": "Video & Footage",
+      "prefix": "BG-FIRE"
+    },
+    {
+      "code": "05-011",
+      "parentNumber": 5,
+      "nameEn": "Liquid",
+      "group": "Video & Footage",
+      "prefix": "BG-LIQUID"
+    },
+    {
+      "code": "05-012",
+      "parentNumber": 5,
+      "nameEn": "Fluid",
+      "group": "Video & Footage",
+      "prefix": "BG-FLUID"
+    },
+    {
+      "code": "05-013",
+      "parentNumber": 5,
+      "nameEn": "Waves",
+      "group": "Video & Footage",
+      "prefix": "BG-WAVES"
+    },
+    {
+      "code": "05-014",
+      "parentNumber": 5,
+      "nameEn": "Geometric",
+      "group": "Video & Footage",
+      "prefix": "BG-GEOMETRIC"
+    },
+    {
+      "code": "05-015",
+      "parentNumber": 5,
+      "nameEn": "Technology",
+      "group": "Video & Footage",
+      "prefix": "BG-TECHNOLOGY"
+    },
+    {
+      "code": "05-016",
+      "parentNumber": 5,
+      "nameEn": "Cyberpunk",
+      "group": "Video & Footage",
+      "prefix": "BG-CYBERPUNK"
+    },
+    {
+      "code": "05-017",
+      "parentNumber": 5,
+      "nameEn": "Grid",
+      "group": "Video & Footage",
+      "prefix": "BG-GRID"
+    },
+    {
+      "code": "05-018",
+      "parentNumber": 5,
+      "nameEn": "Tunnel",
+      "group": "Video & Footage",
+      "prefix": "BG-TUNNEL"
+    },
+    {
+      "code": "05-019",
+      "parentNumber": 5,
+      "nameEn": "Light Streaks",
+      "group": "Video & Footage",
+      "prefix": "BG-LIGHT-STREAKS"
+    },
+    {
+      "code": "05-020",
+      "parentNumber": 5,
+      "nameEn": "Luxury",
+      "group": "Video & Footage",
+      "prefix": "BG-LUXURY"
+    },
+    {
+      "code": "05-021",
+      "parentNumber": 5,
+      "nameEn": "Dark",
+      "group": "Video & Footage",
+      "prefix": "BG-DARK"
+    },
+    {
+      "code": "05-022",
+      "parentNumber": 5,
+      "nameEn": "Colorful",
+      "group": "Video & Footage",
+      "prefix": "BG-COLORFUL"
+    },
+    {
+      "code": "05-023",
+      "parentNumber": 5,
+      "nameEn": "Seamless Loops",
+      "group": "Video & Footage",
+      "prefix": "BG-SEAMLESS-LOOPS"
+    },
+    {
+      "code": "06-001",
+      "parentNumber": 6,
+      "nameEn": "Paper",
+      "group": "Effects & Color",
+      "prefix": "TEX-PAPER"
+    },
+    {
+      "code": "06-002",
+      "parentNumber": 6,
+      "nameEn": "Grunge",
+      "group": "Effects & Color",
+      "prefix": "TEX-GRUNGE"
+    },
+    {
+      "code": "06-003",
+      "parentNumber": 6,
+      "nameEn": "Concrete",
+      "group": "Effects & Color",
+      "prefix": "TEX-CONCRETE"
+    },
+    {
+      "code": "06-004",
+      "parentNumber": 6,
+      "nameEn": "Asphalt",
+      "group": "Effects & Color",
+      "prefix": "TEX-ASPHALT"
+    },
+    {
+      "code": "06-005",
+      "parentNumber": 6,
+      "nameEn": "Metal",
+      "group": "Effects & Color",
+      "prefix": "TEX-METAL"
+    },
+    {
+      "code": "06-006",
+      "parentNumber": 6,
+      "nameEn": "Rust",
+      "group": "Effects & Color",
+      "prefix": "TEX-RUST"
+    },
+    {
+      "code": "06-007",
+      "parentNumber": 6,
+      "nameEn": "Wood",
+      "group": "Effects & Color",
+      "prefix": "TEX-WOOD"
+    },
+    {
+      "code": "06-008",
+      "parentNumber": 6,
+      "nameEn": "Marble",
+      "group": "Effects & Color",
+      "prefix": "TEX-MARBLE"
+    },
+    {
+      "code": "06-009",
+      "parentNumber": 6,
+      "nameEn": "Stone",
+      "group": "Effects & Color",
+      "prefix": "TEX-STONE"
+    },
+    {
+      "code": "06-010",
+      "parentNumber": 6,
+      "nameEn": "Glass",
+      "group": "Effects & Color",
+      "prefix": "TEX-GLASS"
+    },
+    {
+      "code": "06-011",
+      "parentNumber": 6,
+      "nameEn": "Water",
+      "group": "Effects & Color",
+      "prefix": "TEX-WATER"
+    },
+    {
+      "code": "06-012",
+      "parentNumber": 6,
+      "nameEn": "Fabric",
+      "group": "Effects & Color",
+      "prefix": "TEX-FABRIC"
+    },
+    {
+      "code": "06-013",
+      "parentNumber": 6,
+      "nameEn": "Leather",
+      "group": "Effects & Color",
+      "prefix": "TEX-LEATHER"
+    },
+    {
+      "code": "06-014",
+      "parentNumber": 6,
+      "nameEn": "Plastic",
+      "group": "Effects & Color",
+      "prefix": "TEX-PLASTIC"
+    },
+    {
+      "code": "06-015",
+      "parentNumber": 6,
+      "nameEn": "Scratches",
+      "group": "Effects & Color",
+      "prefix": "TEX-SCRATCHES"
+    },
+    {
+      "code": "06-016",
+      "parentNumber": 6,
+      "nameEn": "Dust",
+      "group": "Effects & Color",
+      "prefix": "TEX-DUST"
+    },
+    {
+      "code": "06-017",
+      "parentNumber": 6,
+      "nameEn": "Noise",
+      "group": "Effects & Color",
+      "prefix": "TEX-NOISE"
+    },
+    {
+      "code": "06-018",
+      "parentNumber": 6,
+      "nameEn": "Grain",
+      "group": "Effects & Color",
+      "prefix": "TEX-GRAIN"
+    },
+    {
+      "code": "06-019",
+      "parentNumber": 6,
+      "nameEn": "Ink",
+      "group": "Effects & Color",
+      "prefix": "TEX-INK"
+    },
+    {
+      "code": "06-020",
+      "parentNumber": 6,
+      "nameEn": "Paint",
+      "group": "Effects & Color",
+      "prefix": "TEX-PAINT"
+    },
+    {
+      "code": "06-021",
+      "parentNumber": 6,
+      "nameEn": "Brush Strokes",
+      "group": "Effects & Color",
+      "prefix": "TEX-BRUSH-STROKES"
+    },
+    {
+      "code": "06-022",
+      "parentNumber": 6,
+      "nameEn": "Halftone",
+      "group": "Effects & Color",
+      "prefix": "TEX-HALFTONE"
+    },
+    {
+      "code": "06-023",
+      "parentNumber": 6,
+      "nameEn": "Holographic",
+      "group": "Effects & Color",
+      "prefix": "TEX-HOLOGRAPHIC"
+    },
+    {
+      "code": "06-024",
+      "parentNumber": 6,
+      "nameEn": "Carbon Fiber",
+      "group": "Effects & Color",
+      "prefix": "TEX-CARBON-FIBER"
+    },
+    {
+      "code": "06-025",
+      "parentNumber": 6,
+      "nameEn": "Cracked Surface",
+      "group": "Effects & Color",
+      "prefix": "TEX-CRACKED-SURFACE"
+    },
+    {
+      "code": "06-026",
+      "parentNumber": 6,
+      "nameEn": "Vintage",
+      "group": "Effects & Color",
+      "prefix": "TEX-VINTAGE"
+    },
+    {
+      "code": "07-001",
+      "parentNumber": 7,
+      "nameEn": "Zoom",
+      "group": "Effects & Color",
+      "prefix": "TRN-ZOOM"
+    },
+    {
+      "code": "07-002",
+      "parentNumber": 7,
+      "nameEn": "Whip Pan",
+      "group": "Effects & Color",
+      "prefix": "TRN-WHIP-PAN"
+    },
+    {
+      "code": "07-003",
+      "parentNumber": 7,
+      "nameEn": "Glitch",
+      "group": "Effects & Color",
+      "prefix": "TRN-GLITCH"
+    },
+    {
+      "code": "07-004",
+      "parentNumber": 7,
+      "nameEn": "Camera Shake",
+      "group": "Effects & Color",
+      "prefix": "TRN-CAMERA-SHAKE"
+    },
+    {
+      "code": "07-005",
+      "parentNumber": 7,
+      "nameEn": "Spin",
+      "group": "Effects & Color",
+      "prefix": "TRN-SPIN"
+    },
+    {
+      "code": "07-006",
+      "parentNumber": 7,
+      "nameEn": "Swipe",
+      "group": "Effects & Color",
+      "prefix": "TRN-SWIPE"
+    },
+    {
+      "code": "07-007",
+      "parentNumber": 7,
+      "nameEn": "Slide",
+      "group": "Effects & Color",
+      "prefix": "TRN-SLIDE"
+    },
+    {
+      "code": "07-008",
+      "parentNumber": 7,
+      "nameEn": "Warp",
+      "group": "Effects & Color",
+      "prefix": "TRN-WARP"
+    },
+    {
+      "code": "07-009",
+      "parentNumber": 7,
+      "nameEn": "Distortion",
+      "group": "Effects & Color",
+      "prefix": "TRN-DISTORTION"
+    },
+    {
+      "code": "07-010",
+      "parentNumber": 7,
+      "nameEn": "Light Leak",
+      "group": "Effects & Color",
+      "prefix": "TRN-LIGHT-LEAK"
+    },
+    {
+      "code": "07-011",
+      "parentNumber": 7,
+      "nameEn": "Film Burn",
+      "group": "Effects & Color",
+      "prefix": "TRN-FILM-BURN"
+    },
+    {
+      "code": "07-012",
+      "parentNumber": 7,
+      "nameEn": "Liquid",
+      "group": "Effects & Color",
+      "prefix": "TRN-LIQUID"
+    },
+    {
+      "code": "07-013",
+      "parentNumber": 7,
+      "nameEn": "Ink",
+      "group": "Effects & Color",
+      "prefix": "TRN-INK"
+    },
+    {
+      "code": "07-014",
+      "parentNumber": 7,
+      "nameEn": "Smoke",
+      "group": "Effects & Color",
+      "prefix": "TRN-SMOKE"
+    },
+    {
+      "code": "07-015",
+      "parentNumber": 7,
+      "nameEn": "Fire",
+      "group": "Effects & Color",
+      "prefix": "TRN-FIRE"
+    },
+    {
+      "code": "07-016",
+      "parentNumber": 7,
+      "nameEn": "Paper Tear",
+      "group": "Effects & Color",
+      "prefix": "TRN-PAPER-TEAR"
+    },
+    {
+      "code": "07-017",
+      "parentNumber": 7,
+      "nameEn": "RGB Split",
+      "group": "Effects & Color",
+      "prefix": "TRN-RGB-SPLIT"
+    },
+    {
+      "code": "07-018",
+      "parentNumber": 7,
+      "nameEn": "Blur",
+      "group": "Effects & Color",
+      "prefix": "TRN-BLUR"
+    },
+    {
+      "code": "07-019",
+      "parentNumber": 7,
+      "nameEn": "Flash",
+      "group": "Effects & Color",
+      "prefix": "TRN-FLASH"
+    },
+    {
+      "code": "07-020",
+      "parentNumber": 7,
+      "nameEn": "Stretch",
+      "group": "Effects & Color",
+      "prefix": "TRN-STRETCH"
+    },
+    {
+      "code": "07-021",
+      "parentNumber": 7,
+      "nameEn": "3D",
+      "group": "Effects & Color",
+      "prefix": "TRN-3D"
+    },
+    {
+      "code": "07-022",
+      "parentNumber": 7,
+      "nameEn": "Seamless",
+      "group": "Effects & Color",
+      "prefix": "TRN-SEAMLESS"
+    },
+    {
+      "code": "07-023",
+      "parentNumber": 7,
+      "nameEn": "Cinematic",
+      "group": "Effects & Color",
+      "prefix": "TRN-CINEMATIC"
+    },
+    {
+      "code": "07-024",
+      "parentNumber": 7,
+      "nameEn": "Speed Ramp",
+      "group": "Effects & Color",
+      "prefix": "TRN-SPEED-RAMP"
+    },
+    {
+      "code": "08-001",
+      "parentNumber": 8,
+      "nameEn": "Cinematic",
+      "group": "Effects & Color",
+      "prefix": "LUT-CINEMATIC"
+    },
+    {
+      "code": "08-002",
+      "parentNumber": 8,
+      "nameEn": "Teal & Orange",
+      "group": "Effects & Color",
+      "prefix": "LUT-TEAL-ORANGE"
+    },
+    {
+      "code": "08-003",
+      "parentNumber": 8,
+      "nameEn": "Hollywood",
+      "group": "Effects & Color",
+      "prefix": "LUT-HOLLYWOOD"
+    },
+    {
+      "code": "08-004",
+      "parentNumber": 8,
+      "nameEn": "Film Look",
+      "group": "Effects & Color",
+      "prefix": "LUT-FILM-LOOK"
+    },
+    {
+      "code": "08-005",
+      "parentNumber": 8,
+      "nameEn": "Vintage",
+      "group": "Effects & Color",
+      "prefix": "LUT-VINTAGE"
+    },
+    {
+      "code": "08-006",
+      "parentNumber": 8,
+      "nameEn": "Retro",
+      "group": "Effects & Color",
+      "prefix": "LUT-RETRO"
+    },
+    {
+      "code": "08-007",
+      "parentNumber": 8,
+      "nameEn": "Warm",
+      "group": "Effects & Color",
+      "prefix": "LUT-WARM"
+    },
+    {
+      "code": "08-008",
+      "parentNumber": 8,
+      "nameEn": "Cold",
+      "group": "Effects & Color",
+      "prefix": "LUT-COLD"
+    },
+    {
+      "code": "08-009",
+      "parentNumber": 8,
+      "nameEn": "Dark Moody",
+      "group": "Effects & Color",
+      "prefix": "LUT-DARK-MOODY"
+    },
+    {
+      "code": "08-010",
+      "parentNumber": 8,
+      "nameEn": "Black & White",
+      "group": "Effects & Color",
+      "prefix": "LUT-BLACK-WHITE"
+    },
+    {
+      "code": "08-011",
+      "parentNumber": 8,
+      "nameEn": "Wedding",
+      "group": "Effects & Color",
+      "prefix": "LUT-WEDDING"
+    },
+    {
+      "code": "08-012",
+      "parentNumber": 8,
+      "nameEn": "Travel",
+      "group": "Effects & Color",
+      "prefix": "LUT-TRAVEL"
+    },
+    {
+      "code": "08-013",
+      "parentNumber": 8,
+      "nameEn": "Nature",
+      "group": "Effects & Color",
+      "prefix": "LUT-NATURE"
+    },
+    {
+      "code": "08-014",
+      "parentNumber": 8,
+      "nameEn": "Urban",
+      "group": "Effects & Color",
+      "prefix": "LUT-URBAN"
+    },
+    {
+      "code": "08-015",
+      "parentNumber": 8,
+      "nameEn": "Night",
+      "group": "Effects & Color",
+      "prefix": "LUT-NIGHT"
+    },
+    {
+      "code": "08-016",
+      "parentNumber": 8,
+      "nameEn": "Cyberpunk",
+      "group": "Effects & Color",
+      "prefix": "LUT-CYBERPUNK"
+    },
+    {
+      "code": "08-017",
+      "parentNumber": 8,
+      "nameEn": "Horror",
+      "group": "Effects & Color",
+      "prefix": "LUT-HORROR"
+    },
+    {
+      "code": "08-018",
+      "parentNumber": 8,
+      "nameEn": "Documentary",
+      "group": "Effects & Color",
+      "prefix": "LUT-DOCUMENTARY"
+    },
+    {
+      "code": "08-019",
+      "parentNumber": 8,
+      "nameEn": "Portrait",
+      "group": "Effects & Color",
+      "prefix": "LUT-PORTRAIT"
+    },
+    {
+      "code": "08-020",
+      "parentNumber": 8,
+      "nameEn": "Skin Tone",
+      "group": "Effects & Color",
+      "prefix": "LUT-SKIN-TONE"
+    },
+    {
+      "code": "08-021",
+      "parentNumber": 8,
+      "nameEn": "Drone",
+      "group": "Effects & Color",
+      "prefix": "LUT-DRONE"
+    },
+    {
+      "code": "08-022",
+      "parentNumber": 8,
+      "nameEn": "Log Conversion",
+      "group": "Effects & Color",
+      "prefix": "LUT-LOG-CONVERSION"
+    },
+    {
+      "code": "08-023",
+      "parentNumber": 8,
+      "nameEn": "HDR Looks",
+      "group": "Effects & Color",
+      "prefix": "LUT-HDR-LOOKS"
+    },
+    {
+      "code": "09-001",
+      "parentNumber": 9,
+      "nameEn": "Intro",
+      "group": "Projects & Templates",
+      "prefix": "AE-INTRO"
+    },
+    {
+      "code": "09-002",
+      "parentNumber": 9,
+      "nameEn": "Outro",
+      "group": "Projects & Templates",
+      "prefix": "AE-OUTRO"
+    },
+    {
+      "code": "09-003",
+      "parentNumber": 9,
+      "nameEn": "Openers",
+      "group": "Projects & Templates",
+      "prefix": "AE-OPENERS"
+    },
+    {
+      "code": "09-004",
+      "parentNumber": 9,
+      "nameEn": "Promo",
+      "group": "Projects & Templates",
+      "prefix": "AE-PROMO"
+    },
+    {
+      "code": "09-005",
+      "parentNumber": 9,
+      "nameEn": "Cinematic Trailer",
+      "group": "Projects & Templates",
+      "prefix": "AE-CINEMATIC-TRAILER"
+    },
+    {
+      "code": "09-006",
+      "parentNumber": 9,
+      "nameEn": "Product Promo",
+      "group": "Projects & Templates",
+      "prefix": "AE-PRODUCT-PROMO"
+    },
+    {
+      "code": "09-007",
+      "parentNumber": 9,
+      "nameEn": "Corporate",
+      "group": "Projects & Templates",
+      "prefix": "AE-CORPORATE"
+    },
+    {
+      "code": "09-008",
+      "parentNumber": 9,
+      "nameEn": "Typography",
+      "group": "Projects & Templates",
+      "prefix": "AE-TYPOGRAPHY"
+    },
+    {
+      "code": "09-009",
+      "parentNumber": 9,
+      "nameEn": "Music Visualizer",
+      "group": "Projects & Templates",
+      "prefix": "AE-MUSIC-VISUALIZER"
+    },
+    {
+      "code": "09-010",
+      "parentNumber": 9,
+      "nameEn": "Lyric Video",
+      "group": "Projects & Templates",
+      "prefix": "AE-LYRIC-VIDEO"
+    },
+    {
+      "code": "09-011",
+      "parentNumber": 9,
+      "nameEn": "3D Animation",
+      "group": "Projects & Templates",
+      "prefix": "AE-3D-ANIMATION"
+    },
+    {
+      "code": "09-012",
+      "parentNumber": 9,
+      "nameEn": "Photo Animation",
+      "group": "Projects & Templates",
+      "prefix": "AE-PHOTO-ANIMATION"
+    },
+    {
+      "code": "09-013",
+      "parentNumber": 9,
+      "nameEn": "Infographics",
+      "group": "Projects & Templates",
+      "prefix": "AE-INFOGRAPHICS"
+    },
+    {
+      "code": "09-014",
+      "parentNumber": 9,
+      "nameEn": "Kinetic Motion",
+      "group": "Projects & Templates",
+      "prefix": "AE-KINETIC-MOTION"
+    },
+    {
+      "code": "09-015",
+      "parentNumber": 9,
+      "nameEn": "Event Promo",
+      "group": "Projects & Templates",
+      "prefix": "AE-EVENT-PROMO"
+    },
+    {
+      "code": "09-016",
+      "parentNumber": 9,
+      "nameEn": "Wedding",
+      "group": "Projects & Templates",
+      "prefix": "AE-WEDDING"
+    },
+    {
+      "code": "09-017",
+      "parentNumber": 9,
+      "nameEn": "Titles",
+      "group": "Projects & Templates",
+      "prefix": "AE-TITLES"
+    },
+    {
+      "code": "09-018",
+      "parentNumber": 9,
+      "nameEn": "YouTube Packages",
+      "group": "Projects & Templates",
+      "prefix": "AE-YOUTUBE-PACKAGES"
+    },
+    {
+      "code": "09-019",
+      "parentNumber": 9,
+      "nameEn": "Animation Scenes",
+      "group": "Projects & Templates",
+      "prefix": "AE-ANIMATION-SCENES"
+    },
+    {
+      "code": "10-001",
+      "parentNumber": 10,
+      "nameEn": "Intro",
+      "group": "Projects & Templates",
+      "prefix": "PR-INTRO"
+    },
+    {
+      "code": "10-002",
+      "parentNumber": 10,
+      "nameEn": "Outro",
+      "group": "Projects & Templates",
+      "prefix": "PR-OUTRO"
+    },
+    {
+      "code": "10-003",
+      "parentNumber": 10,
+      "nameEn": "Promo",
+      "group": "Projects & Templates",
+      "prefix": "PR-PROMO"
+    },
+    {
+      "code": "10-004",
+      "parentNumber": 10,
+      "nameEn": "Trailer",
+      "group": "Projects & Templates",
+      "prefix": "PR-TRAILER"
+    },
+    {
+      "code": "10-005",
+      "parentNumber": 10,
+      "nameEn": "YouTube",
+      "group": "Projects & Templates",
+      "prefix": "PR-YOUTUBE"
+    },
+    {
+      "code": "10-006",
+      "parentNumber": 10,
+      "nameEn": "Vlogs",
+      "group": "Projects & Templates",
+      "prefix": "PR-VLOGS"
+    },
+    {
+      "code": "10-007",
+      "parentNumber": 10,
+      "nameEn": "Travel",
+      "group": "Projects & Templates",
+      "prefix": "PR-TRAVEL"
+    },
+    {
+      "code": "10-008",
+      "parentNumber": 10,
+      "nameEn": "Wedding",
+      "group": "Projects & Templates",
+      "prefix": "PR-WEDDING"
+    },
+    {
+      "code": "10-009",
+      "parentNumber": 10,
+      "nameEn": "Fashion",
+      "group": "Projects & Templates",
+      "prefix": "PR-FASHION"
+    },
+    {
+      "code": "10-010",
+      "parentNumber": 10,
+      "nameEn": "Product Promo",
+      "group": "Projects & Templates",
+      "prefix": "PR-PRODUCT-PROMO"
+    },
+    {
+      "code": "10-011",
+      "parentNumber": 10,
+      "nameEn": "Sports",
+      "group": "Projects & Templates",
+      "prefix": "PR-SPORTS"
+    },
+    {
+      "code": "10-012",
+      "parentNumber": 10,
+      "nameEn": "Documentary",
+      "group": "Projects & Templates",
+      "prefix": "PR-DOCUMENTARY"
+    },
+    {
+      "code": "10-013",
+      "parentNumber": 10,
+      "nameEn": "Cinematic Montage",
+      "group": "Projects & Templates",
+      "prefix": "PR-CINEMATIC-MONTAGE"
+    },
+    {
+      "code": "10-014",
+      "parentNumber": 10,
+      "nameEn": "Video Collage",
+      "group": "Projects & Templates",
+      "prefix": "PR-VIDEO-COLLAGE"
+    },
+    {
+      "code": "10-015",
+      "parentNumber": 10,
+      "nameEn": "Podcast",
+      "group": "Projects & Templates",
+      "prefix": "PR-PODCAST"
+    },
+    {
+      "code": "10-016",
+      "parentNumber": 10,
+      "nameEn": "Music Video",
+      "group": "Projects & Templates",
+      "prefix": "PR-MUSIC-VIDEO"
+    },
+    {
+      "code": "10-017",
+      "parentNumber": 10,
+      "nameEn": "Corporate",
+      "group": "Projects & Templates",
+      "prefix": "PR-CORPORATE"
+    },
+    {
+      "code": "10-018",
+      "parentNumber": 10,
+      "nameEn": "Reels",
+      "group": "Projects & Templates",
+      "prefix": "PR-REELS"
+    },
+    {
+      "code": "10-019",
+      "parentNumber": 10,
+      "nameEn": "Short Videos",
+      "group": "Projects & Templates",
+      "prefix": "PR-SHORT-VIDEOS"
+    },
+    {
+      "code": "11-001",
+      "parentNumber": 11,
+      "nameEn": "Minimal",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-MINIMAL"
+    },
+    {
+      "code": "11-002",
+      "parentNumber": 11,
+      "nameEn": "Clean",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-CLEAN"
+    },
+    {
+      "code": "11-003",
+      "parentNumber": 11,
+      "nameEn": "3D",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-3D"
+    },
+    {
+      "code": "11-004",
+      "parentNumber": 11,
+      "nameEn": "Neon",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-NEON"
+    },
+    {
+      "code": "11-005",
+      "parentNumber": 11,
+      "nameEn": "Glitch",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-GLITCH"
+    },
+    {
+      "code": "11-006",
+      "parentNumber": 11,
+      "nameEn": "Particles",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-PARTICLES"
+    },
+    {
+      "code": "11-007",
+      "parentNumber": 11,
+      "nameEn": "Smoke",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-SMOKE"
+    },
+    {
+      "code": "11-008",
+      "parentNumber": 11,
+      "nameEn": "Fire",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-FIRE"
+    },
+    {
+      "code": "11-009",
+      "parentNumber": 11,
+      "nameEn": "Liquid",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-LIQUID"
+    },
+    {
+      "code": "11-010",
+      "parentNumber": 11,
+      "nameEn": "Ink",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-INK"
+    },
+    {
+      "code": "11-011",
+      "parentNumber": 11,
+      "nameEn": "Gold",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-GOLD"
+    },
+    {
+      "code": "11-012",
+      "parentNumber": 11,
+      "nameEn": "Metallic",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-METALLIC"
+    },
+    {
+      "code": "11-013",
+      "parentNumber": 11,
+      "nameEn": "Chrome",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-CHROME"
+    },
+    {
+      "code": "11-014",
+      "parentNumber": 11,
+      "nameEn": "Electric",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-ELECTRIC"
+    },
+    {
+      "code": "11-015",
+      "parentNumber": 11,
+      "nameEn": "Cinematic",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-CINEMATIC"
+    },
+    {
+      "code": "11-016",
+      "parentNumber": 11,
+      "nameEn": "Light Reveal",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-LIGHT-REVEAL"
+    },
+    {
+      "code": "11-017",
+      "parentNumber": 11,
+      "nameEn": "Technology",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-TECHNOLOGY"
+    },
+    {
+      "code": "11-018",
+      "parentNumber": 11,
+      "nameEn": "HUD",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-HUD"
+    },
+    {
+      "code": "11-019",
+      "parentNumber": 11,
+      "nameEn": "Hand Drawn",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-HAND-DRAWN"
+    },
+    {
+      "code": "11-020",
+      "parentNumber": 11,
+      "nameEn": "Brush",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-BRUSH"
+    },
+    {
+      "code": "11-021",
+      "parentNumber": 11,
+      "nameEn": "Paper",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-PAPER"
+    },
+    {
+      "code": "11-022",
+      "parentNumber": 11,
+      "nameEn": "Shape Animation",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-SHAPE-ANIMATION"
+    },
+    {
+      "code": "11-023",
+      "parentNumber": 11,
+      "nameEn": "Logo Stinger",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-LOGO-STINGER"
+    },
+    {
+      "code": "11-024",
+      "parentNumber": 11,
+      "nameEn": "Quick Reveal",
+      "group": "Projects & Templates",
+      "prefix": "LOGO-QUICK-REVEAL"
+    },
+    {
+      "code": "12-001",
+      "parentNumber": 12,
+      "nameEn": "Cinematic",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-CINEMATIC"
+    },
+    {
+      "code": "12-002",
+      "parentNumber": 12,
+      "nameEn": "Wedding",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-WEDDING"
+    },
+    {
+      "code": "12-003",
+      "parentNumber": 12,
+      "nameEn": "Travel",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-TRAVEL"
+    },
+    {
+      "code": "12-004",
+      "parentNumber": 12,
+      "nameEn": "Memories",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-MEMORIES"
+    },
+    {
+      "code": "12-005",
+      "parentNumber": 12,
+      "nameEn": "Photo Gallery",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-PHOTO-GALLERY"
+    },
+    {
+      "code": "12-006",
+      "parentNumber": 12,
+      "nameEn": "Minimal",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-MINIMAL"
+    },
+    {
+      "code": "12-007",
+      "parentNumber": 12,
+      "nameEn": "Clean",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-CLEAN"
+    },
+    {
+      "code": "12-008",
+      "parentNumber": 12,
+      "nameEn": "3D Parallax",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-3D-PARALLAX"
+    },
+    {
+      "code": "12-009",
+      "parentNumber": 12,
+      "nameEn": "Glitch",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-GLITCH"
+    },
+    {
+      "code": "12-010",
+      "parentNumber": 12,
+      "nameEn": "Corporate",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-CORPORATE"
+    },
+    {
+      "code": "12-011",
+      "parentNumber": 12,
+      "nameEn": "Fashion",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-FASHION"
+    },
+    {
+      "code": "12-012",
+      "parentNumber": 12,
+      "nameEn": "Product",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-PRODUCT"
+    },
+    {
+      "code": "12-013",
+      "parentNumber": 12,
+      "nameEn": "Birthday",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-BIRTHDAY"
+    },
+    {
+      "code": "12-014",
+      "parentNumber": 12,
+      "nameEn": "Anniversary",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-ANNIVERSARY"
+    },
+    {
+      "code": "12-015",
+      "parentNumber": 12,
+      "nameEn": "Graduation",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-GRADUATION"
+    },
+    {
+      "code": "12-016",
+      "parentNumber": 12,
+      "nameEn": "Family",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-FAMILY"
+    },
+    {
+      "code": "12-017",
+      "parentNumber": 12,
+      "nameEn": "Romantic",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-ROMANTIC"
+    },
+    {
+      "code": "12-018",
+      "parentNumber": 12,
+      "nameEn": "Luxury",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-LUXURY"
+    },
+    {
+      "code": "12-019",
+      "parentNumber": 12,
+      "nameEn": "Documentary",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-DOCUMENTARY"
+    },
+    {
+      "code": "12-020",
+      "parentNumber": 12,
+      "nameEn": "Instagram",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-INSTAGRAM"
+    },
+    {
+      "code": "12-021",
+      "parentNumber": 12,
+      "nameEn": "Portfolio",
+      "group": "Projects & Templates",
+      "prefix": "SLIDE-PORTFOLIO"
+    },
+    {
+      "code": "13-001",
+      "parentNumber": 13,
+      "nameEn": "Titles",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-TITLES"
+    },
+    {
+      "code": "13-002",
+      "parentNumber": 13,
+      "nameEn": "Lower Thirds",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-LOWER-THIRDS"
+    },
+    {
+      "code": "13-003",
+      "parentNumber": 13,
+      "nameEn": "Subtitles",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-SUBTITLES"
+    },
+    {
+      "code": "13-004",
+      "parentNumber": 13,
+      "nameEn": "Captions",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-CAPTIONS"
+    },
+    {
+      "code": "13-005",
+      "parentNumber": 13,
+      "nameEn": "Callouts",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-CALLOUTS"
+    },
+    {
+      "code": "13-006",
+      "parentNumber": 13,
+      "nameEn": "Social Media",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-SOCIAL-MEDIA"
+    },
+    {
+      "code": "13-007",
+      "parentNumber": 13,
+      "nameEn": "Subscribe Animations",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-SUBSCRIBE-ANIMATIONS"
+    },
+    {
+      "code": "13-008",
+      "parentNumber": 13,
+      "nameEn": "Name Tags",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-NAME-TAGS"
+    },
+    {
+      "code": "13-009",
+      "parentNumber": 13,
+      "nameEn": "Kinetic Typography",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-KINETIC-TYPOGRAPHY"
+    },
+    {
+      "code": "13-010",
+      "parentNumber": 13,
+      "nameEn": "Quotes",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-QUOTES"
+    },
+    {
+      "code": "13-011",
+      "parentNumber": 13,
+      "nameEn": "Infographics",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-INFOGRAPHICS"
+    },
+    {
+      "code": "13-012",
+      "parentNumber": 13,
+      "nameEn": "Counters",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-COUNTERS"
+    },
+    {
+      "code": "13-013",
+      "parentNumber": 13,
+      "nameEn": "Date & Time",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-DATE-TIME"
+    },
+    {
+      "code": "13-014",
+      "parentNumber": 13,
+      "nameEn": "Progress Bars",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-PROGRESS-BARS"
+    },
+    {
+      "code": "13-015",
+      "parentNumber": 13,
+      "nameEn": "YouTube",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-YOUTUBE"
+    },
+    {
+      "code": "13-016",
+      "parentNumber": 13,
+      "nameEn": "News",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-NEWS"
+    },
+    {
+      "code": "13-017",
+      "parentNumber": 13,
+      "nameEn": "Podcast Titles",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-PODCAST-TITLES"
+    },
+    {
+      "code": "13-018",
+      "parentNumber": 13,
+      "nameEn": "End Screens",
+      "group": "Projects & Templates",
+      "prefix": "MOGRT-END-SCREENS"
+    },
+    {
+      "code": "14-001",
+      "parentNumber": 14,
+      "nameEn": "Cinematic Titles",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-CINEMATIC-TITLES"
+    },
+    {
+      "code": "14-002",
+      "parentNumber": 14,
+      "nameEn": "Modern Titles",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-MODERN-TITLES"
+    },
+    {
+      "code": "14-003",
+      "parentNumber": 14,
+      "nameEn": "3D Text",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-3D-TEXT"
+    },
+    {
+      "code": "14-004",
+      "parentNumber": 14,
+      "nameEn": "Neon Text",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-NEON-TEXT"
+    },
+    {
+      "code": "14-005",
+      "parentNumber": 14,
+      "nameEn": "Glitch Text",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-GLITCH-TEXT"
+    },
+    {
+      "code": "14-006",
+      "parentNumber": 14,
+      "nameEn": "Typewriter",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-TYPEWRITER"
+    },
+    {
+      "code": "14-007",
+      "parentNumber": 14,
+      "nameEn": "Kinetic Typography",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-KINETIC-TYPOGRAPHY"
+    },
+    {
+      "code": "14-008",
+      "parentNumber": 14,
+      "nameEn": "Text Reveal",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-TEXT-REVEAL"
+    },
+    {
+      "code": "14-009",
+      "parentNumber": 14,
+      "nameEn": "Liquid Text",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-LIQUID-TEXT"
+    },
+    {
+      "code": "14-010",
+      "parentNumber": 14,
+      "nameEn": "Fire Text",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-FIRE-TEXT"
+    },
+    {
+      "code": "14-011",
+      "parentNumber": 14,
+      "nameEn": "Smoke Text",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-SMOKE-TEXT"
+    },
+    {
+      "code": "14-012",
+      "parentNumber": 14,
+      "nameEn": "Minimal",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-MINIMAL"
+    },
+    {
+      "code": "14-013",
+      "parentNumber": 14,
+      "nameEn": "Bold",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-BOLD"
+    },
+    {
+      "code": "14-014",
+      "parentNumber": 14,
+      "nameEn": "Elegant",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-ELEGANT"
+    },
+    {
+      "code": "14-015",
+      "parentNumber": 14,
+      "nameEn": "Wedding",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-WEDDING"
+    },
+    {
+      "code": "14-016",
+      "parentNumber": 14,
+      "nameEn": "Horror",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-HORROR"
+    },
+    {
+      "code": "14-017",
+      "parentNumber": 14,
+      "nameEn": "Luxury",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-LUXURY"
+    },
+    {
+      "code": "14-018",
+      "parentNumber": 14,
+      "nameEn": "Retro",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-RETRO"
+    },
+    {
+      "code": "14-019",
+      "parentNumber": 14,
+      "nameEn": "Tech",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-TECH"
+    },
+    {
+      "code": "14-020",
+      "parentNumber": 14,
+      "nameEn": "Animated Captions",
+      "group": "Projects & Templates",
+      "prefix": "TITLE-ANIMATED-CAPTIONS"
+    },
+    {
+      "code": "15-001",
+      "parentNumber": 15,
+      "nameEn": "Text Presets",
+      "group": "Presets & Motion",
+      "prefix": "AEP-TEXT-PRESETS"
+    },
+    {
+      "code": "15-002",
+      "parentNumber": 15,
+      "nameEn": "Animation Presets",
+      "group": "Presets & Motion",
+      "prefix": "AEP-ANIMATION-PRESETS"
+    },
+    {
+      "code": "15-003",
+      "parentNumber": 15,
+      "nameEn": "Camera Shake",
+      "group": "Presets & Motion",
+      "prefix": "AEP-CAMERA-SHAKE"
+    },
+    {
+      "code": "15-004",
+      "parentNumber": 15,
+      "nameEn": "Motion Blur",
+      "group": "Presets & Motion",
+      "prefix": "AEP-MOTION-BLUR"
+    },
+    {
+      "code": "15-005",
+      "parentNumber": 15,
+      "nameEn": "Position",
+      "group": "Presets & Motion",
+      "prefix": "AEP-POSITION"
+    },
+    {
+      "code": "15-006",
+      "parentNumber": 15,
+      "nameEn": "Scale",
+      "group": "Presets & Motion",
+      "prefix": "AEP-SCALE"
+    },
+    {
+      "code": "15-007",
+      "parentNumber": 15,
+      "nameEn": "Rotation",
+      "group": "Presets & Motion",
+      "prefix": "AEP-ROTATION"
+    },
+    {
+      "code": "15-008",
+      "parentNumber": 15,
+      "nameEn": "Bounce",
+      "group": "Presets & Motion",
+      "prefix": "AEP-BOUNCE"
+    },
+    {
+      "code": "15-009",
+      "parentNumber": 15,
+      "nameEn": "Elastic",
+      "group": "Presets & Motion",
+      "prefix": "AEP-ELASTIC"
+    },
+    {
+      "code": "15-010",
+      "parentNumber": 15,
+      "nameEn": "Wiggle",
+      "group": "Presets & Motion",
+      "prefix": "AEP-WIGGLE"
+    },
+    {
+      "code": "15-011",
+      "parentNumber": 15,
+      "nameEn": "Zoom",
+      "group": "Presets & Motion",
+      "prefix": "AEP-ZOOM"
+    },
+    {
+      "code": "15-012",
+      "parentNumber": 15,
+      "nameEn": "3D Camera",
+      "group": "Presets & Motion",
+      "prefix": "AEP-3D-CAMERA"
+    },
+    {
+      "code": "15-013",
+      "parentNumber": 15,
+      "nameEn": "Glitch",
+      "group": "Presets & Motion",
+      "prefix": "AEP-GLITCH"
+    },
+    {
+      "code": "15-014",
+      "parentNumber": 15,
+      "nameEn": "Color",
+      "group": "Presets & Motion",
+      "prefix": "AEP-COLOR"
+    },
+    {
+      "code": "15-015",
+      "parentNumber": 15,
+      "nameEn": "Distortion",
+      "group": "Presets & Motion",
+      "prefix": "AEP-DISTORTION"
+    },
+    {
+      "code": "15-016",
+      "parentNumber": 15,
+      "nameEn": "Light",
+      "group": "Presets & Motion",
+      "prefix": "AEP-LIGHT"
+    },
+    {
+      "code": "15-017",
+      "parentNumber": 15,
+      "nameEn": "Particle Animation",
+      "group": "Presets & Motion",
+      "prefix": "AEP-PARTICLE-ANIMATION"
+    },
+    {
+      "code": "15-018",
+      "parentNumber": 15,
+      "nameEn": "Expressions",
+      "group": "Presets & Motion",
+      "prefix": "AEP-EXPRESSIONS"
+    },
+    {
+      "code": "15-019",
+      "parentNumber": 15,
+      "nameEn": "Motion Effects",
+      "group": "Presets & Motion",
+      "prefix": "AEP-MOTION-EFFECTS"
+    },
+    {
+      "code": "16-001",
+      "parentNumber": 16,
+      "nameEn": "Zoom",
+      "group": "Presets & Motion",
+      "prefix": "PRP-ZOOM"
+    },
+    {
+      "code": "16-002",
+      "parentNumber": 16,
+      "nameEn": "Shake",
+      "group": "Presets & Motion",
+      "prefix": "PRP-SHAKE"
+    },
+    {
+      "code": "16-003",
+      "parentNumber": 16,
+      "nameEn": "Glitch",
+      "group": "Presets & Motion",
+      "prefix": "PRP-GLITCH"
+    },
+    {
+      "code": "16-004",
+      "parentNumber": 16,
+      "nameEn": "Blur",
+      "group": "Presets & Motion",
+      "prefix": "PRP-BLUR"
+    },
+    {
+      "code": "16-005",
+      "parentNumber": 16,
+      "nameEn": "Sharpen",
+      "group": "Presets & Motion",
+      "prefix": "PRP-SHARPEN"
+    },
+    {
+      "code": "16-006",
+      "parentNumber": 16,
+      "nameEn": "Color Effects",
+      "group": "Presets & Motion",
+      "prefix": "PRP-COLOR-EFFECTS"
+    },
+    {
+      "code": "16-007",
+      "parentNumber": 16,
+      "nameEn": "Speed Ramp",
+      "group": "Presets & Motion",
+      "prefix": "PRP-SPEED-RAMP"
+    },
+    {
+      "code": "16-008",
+      "parentNumber": 16,
+      "nameEn": "Distortion",
+      "group": "Presets & Motion",
+      "prefix": "PRP-DISTORTION"
+    },
+    {
+      "code": "16-009",
+      "parentNumber": 16,
+      "nameEn": "Flash",
+      "group": "Presets & Motion",
+      "prefix": "PRP-FLASH"
+    },
+    {
+      "code": "16-010",
+      "parentNumber": 16,
+      "nameEn": "RGB Split",
+      "group": "Presets & Motion",
+      "prefix": "PRP-RGB-SPLIT"
+    },
+    {
+      "code": "16-011",
+      "parentNumber": 16,
+      "nameEn": "Motion",
+      "group": "Presets & Motion",
+      "prefix": "PRP-MOTION"
+    },
+    {
+      "code": "16-012",
+      "parentNumber": 16,
+      "nameEn": "Transform",
+      "group": "Presets & Motion",
+      "prefix": "PRP-TRANSFORM"
+    },
+    {
+      "code": "16-013",
+      "parentNumber": 16,
+      "nameEn": "Cinematic Effects",
+      "group": "Presets & Motion",
+      "prefix": "PRP-CINEMATIC-EFFECTS"
+    },
+    {
+      "code": "16-014",
+      "parentNumber": 16,
+      "nameEn": "Text Effects",
+      "group": "Presets & Motion",
+      "prefix": "PRP-TEXT-EFFECTS"
+    },
+    {
+      "code": "16-015",
+      "parentNumber": 16,
+      "nameEn": "Vlog Effects",
+      "group": "Presets & Motion",
+      "prefix": "PRP-VLOG-EFFECTS"
+    },
+    {
+      "code": "16-016",
+      "parentNumber": 16,
+      "nameEn": "Social Media Effects",
+      "group": "Presets & Motion",
+      "prefix": "PRP-SOCIAL-MEDIA-EFFECTS"
+    },
+    {
+      "code": "16-017",
+      "parentNumber": 16,
+      "nameEn": "Camera Movement",
+      "group": "Presets & Motion",
+      "prefix": "PRP-CAMERA-MOVEMENT"
+    },
+    {
+      "code": "16-018",
+      "parentNumber": 16,
+      "nameEn": "Audio Effects",
+      "group": "Presets & Motion",
+      "prefix": "PRP-AUDIO-EFFECTS"
+    },
+    {
+      "code": "17-001",
+      "parentNumber": 17,
+      "nameEn": "Instagram Reels",
+      "group": "Presets & Motion",
+      "prefix": "SOC-INSTAGRAM-REELS"
+    },
+    {
+      "code": "17-002",
+      "parentNumber": 17,
+      "nameEn": "Stories",
+      "group": "Presets & Motion",
+      "prefix": "SOC-STORIES"
+    },
+    {
+      "code": "17-003",
+      "parentNumber": 17,
+      "nameEn": "Posts",
+      "group": "Presets & Motion",
+      "prefix": "SOC-POSTS"
+    },
+    {
+      "code": "17-004",
+      "parentNumber": 17,
+      "nameEn": "YouTube Shorts",
+      "group": "Presets & Motion",
+      "prefix": "SOC-YOUTUBE-SHORTS"
+    },
+    {
+      "code": "17-005",
+      "parentNumber": 17,
+      "nameEn": "YouTube Intro",
+      "group": "Presets & Motion",
+      "prefix": "SOC-YOUTUBE-INTRO"
+    },
+    {
+      "code": "17-006",
+      "parentNumber": 17,
+      "nameEn": "YouTube Outro",
+      "group": "Presets & Motion",
+      "prefix": "SOC-YOUTUBE-OUTRO"
+    },
+    {
+      "code": "17-007",
+      "parentNumber": 17,
+      "nameEn": "TikTok",
+      "group": "Presets & Motion",
+      "prefix": "SOC-TIKTOK"
+    },
+    {
+      "code": "17-008",
+      "parentNumber": 17,
+      "nameEn": "Telegram Promos",
+      "group": "Presets & Motion",
+      "prefix": "SOC-TELEGRAM-PROMOS"
+    },
+    {
+      "code": "17-009",
+      "parentNumber": 17,
+      "nameEn": "Social Ads",
+      "group": "Presets & Motion",
+      "prefix": "SOC-SOCIAL-ADS"
+    },
+    {
+      "code": "17-010",
+      "parentNumber": 17,
+      "nameEn": "Product Ads",
+      "group": "Presets & Motion",
+      "prefix": "SOC-PRODUCT-ADS"
+    },
+    {
+      "code": "17-011",
+      "parentNumber": 17,
+      "nameEn": "Fashion Reels",
+      "group": "Presets & Motion",
+      "prefix": "SOC-FASHION-REELS"
+    },
+    {
+      "code": "17-012",
+      "parentNumber": 17,
+      "nameEn": "Travel Reels",
+      "group": "Presets & Motion",
+      "prefix": "SOC-TRAVEL-REELS"
+    },
+    {
+      "code": "17-013",
+      "parentNumber": 17,
+      "nameEn": "Podcast Clips",
+      "group": "Presets & Motion",
+      "prefix": "SOC-PODCAST-CLIPS"
+    },
+    {
+      "code": "17-014",
+      "parentNumber": 17,
+      "nameEn": "Subscribe",
+      "group": "Presets & Motion",
+      "prefix": "SOC-SUBSCRIBE"
+    },
+    {
+      "code": "17-015",
+      "parentNumber": 17,
+      "nameEn": "Follow",
+      "group": "Presets & Motion",
+      "prefix": "SOC-FOLLOW"
+    },
+    {
+      "code": "17-016",
+      "parentNumber": 17,
+      "nameEn": "Like",
+      "group": "Presets & Motion",
+      "prefix": "SOC-LIKE"
+    },
+    {
+      "code": "17-017",
+      "parentNumber": 17,
+      "nameEn": "Notifications",
+      "group": "Presets & Motion",
+      "prefix": "SOC-NOTIFICATIONS"
+    },
+    {
+      "code": "17-018",
+      "parentNumber": 17,
+      "nameEn": "Vertical Templates",
+      "group": "Presets & Motion",
+      "prefix": "SOC-VERTICAL-TEMPLATES"
+    },
+    {
+      "code": "18-001",
+      "parentNumber": 18,
+      "nameEn": "Charts",
+      "group": "Presets & Motion",
+      "prefix": "INFO-CHARTS"
+    },
+    {
+      "code": "18-002",
+      "parentNumber": 18,
+      "nameEn": "Graphs",
+      "group": "Presets & Motion",
+      "prefix": "INFO-GRAPHS"
+    },
+    {
+      "code": "18-003",
+      "parentNumber": 18,
+      "nameEn": "Counters",
+      "group": "Presets & Motion",
+      "prefix": "INFO-COUNTERS"
+    },
+    {
+      "code": "18-004",
+      "parentNumber": 18,
+      "nameEn": "Statistics",
+      "group": "Presets & Motion",
+      "prefix": "INFO-STATISTICS"
+    },
+    {
+      "code": "18-005",
+      "parentNumber": 18,
+      "nameEn": "Maps",
+      "group": "Presets & Motion",
+      "prefix": "INFO-MAPS"
+    },
+    {
+      "code": "18-006",
+      "parentNumber": 18,
+      "nameEn": "Location Pins",
+      "group": "Presets & Motion",
+      "prefix": "INFO-LOCATION-PINS"
+    },
+    {
+      "code": "18-007",
+      "parentNumber": 18,
+      "nameEn": "Progress Bars",
+      "group": "Presets & Motion",
+      "prefix": "INFO-PROGRESS-BARS"
+    },
+    {
+      "code": "18-008",
+      "parentNumber": 18,
+      "nameEn": "Data Visualization",
+      "group": "Presets & Motion",
+      "prefix": "INFO-DATA-VISUALIZATION"
+    },
+    {
+      "code": "18-009",
+      "parentNumber": 18,
+      "nameEn": "Timelines",
+      "group": "Presets & Motion",
+      "prefix": "INFO-TIMELINES"
+    },
+    {
+      "code": "18-010",
+      "parentNumber": 18,
+      "nameEn": "Comparison",
+      "group": "Presets & Motion",
+      "prefix": "INFO-COMPARISON"
+    },
+    {
+      "code": "18-011",
+      "parentNumber": 18,
+      "nameEn": "Tech HUD",
+      "group": "Presets & Motion",
+      "prefix": "INFO-TECH-HUD"
+    },
+    {
+      "code": "18-012",
+      "parentNumber": 18,
+      "nameEn": "Sci-Fi UI",
+      "group": "Presets & Motion",
+      "prefix": "INFO-SCI-FI-UI"
+    },
+    {
+      "code": "18-013",
+      "parentNumber": 18,
+      "nameEn": "Digital Screens",
+      "group": "Presets & Motion",
+      "prefix": "INFO-DIGITAL-SCREENS"
+    },
+    {
+      "code": "18-014",
+      "parentNumber": 18,
+      "nameEn": "Callouts",
+      "group": "Presets & Motion",
+      "prefix": "INFO-CALLOUTS"
+    },
+    {
+      "code": "18-015",
+      "parentNumber": 18,
+      "nameEn": "Tracking Elements",
+      "group": "Presets & Motion",
+      "prefix": "INFO-TRACKING-ELEMENTS"
+    },
+    {
+      "code": "18-016",
+      "parentNumber": 18,
+      "nameEn": "Corporate Infographics",
+      "group": "Presets & Motion",
+      "prefix": "INFO-CORPORATE-INFOGRAPHICS"
+    },
+    {
+      "code": "18-017",
+      "parentNumber": 18,
+      "nameEn": "Numbers",
+      "group": "Presets & Motion",
+      "prefix": "INFO-NUMBERS"
+    },
+    {
+      "code": "19-001",
+      "parentNumber": 19,
+      "nameEn": "Broadcast Packages",
+      "group": "Presets & Motion",
+      "prefix": "BRD-BROADCAST-PACKAGES"
+    },
+    {
+      "code": "19-002",
+      "parentNumber": 19,
+      "nameEn": "News",
+      "group": "Presets & Motion",
+      "prefix": "BRD-NEWS"
+    },
+    {
+      "code": "19-003",
+      "parentNumber": 19,
+      "nameEn": "Sports",
+      "group": "Presets & Motion",
+      "prefix": "BRD-SPORTS"
+    },
+    {
+      "code": "19-004",
+      "parentNumber": 19,
+      "nameEn": "Gaming",
+      "group": "Presets & Motion",
+      "prefix": "BRD-GAMING"
+    },
+    {
+      "code": "19-005",
+      "parentNumber": 19,
+      "nameEn": "Twitch",
+      "group": "Presets & Motion",
+      "prefix": "BRD-TWITCH"
+    },
+    {
+      "code": "19-006",
+      "parentNumber": 19,
+      "nameEn": "YouTube Live",
+      "group": "Presets & Motion",
+      "prefix": "BRD-YOUTUBE-LIVE"
+    },
+    {
+      "code": "19-007",
+      "parentNumber": 19,
+      "nameEn": "Stream Overlays",
+      "group": "Presets & Motion",
+      "prefix": "BRD-STREAM-OVERLAYS"
+    },
+    {
+      "code": "19-008",
+      "parentNumber": 19,
+      "nameEn": "Starting Soon",
+      "group": "Presets & Motion",
+      "prefix": "BRD-STARTING-SOON"
+    },
+    {
+      "code": "19-009",
+      "parentNumber": 19,
+      "nameEn": "Be Right Back",
+      "group": "Presets & Motion",
+      "prefix": "BRD-BE-RIGHT-BACK"
+    },
+    {
+      "code": "19-010",
+      "parentNumber": 19,
+      "nameEn": "Ending Soon",
+      "group": "Presets & Motion",
+      "prefix": "BRD-ENDING-SOON"
+    },
+    {
+      "code": "19-011",
+      "parentNumber": 19,
+      "nameEn": "Lower Thirds",
+      "group": "Presets & Motion",
+      "prefix": "BRD-LOWER-THIRDS"
+    },
+    {
+      "code": "19-012",
+      "parentNumber": 19,
+      "nameEn": "Scoreboards",
+      "group": "Presets & Motion",
+      "prefix": "BRD-SCOREBOARDS"
+    },
+    {
+      "code": "19-013",
+      "parentNumber": 19,
+      "nameEn": "Tickers",
+      "group": "Presets & Motion",
+      "prefix": "BRD-TICKERS"
+    },
+    {
+      "code": "19-014",
+      "parentNumber": 19,
+      "nameEn": "Breaking News",
+      "group": "Presets & Motion",
+      "prefix": "BRD-BREAKING-NEWS"
+    },
+    {
+      "code": "19-015",
+      "parentNumber": 19,
+      "nameEn": "Channel ID",
+      "group": "Presets & Motion",
+      "prefix": "BRD-CHANNEL-ID"
+    },
+    {
+      "code": "19-016",
+      "parentNumber": 19,
+      "nameEn": "TV Openers",
+      "group": "Presets & Motion",
+      "prefix": "BRD-TV-OPENERS"
+    },
+    {
+      "code": "19-017",
+      "parentNumber": 19,
+      "nameEn": "Podcast Packages",
+      "group": "Presets & Motion",
+      "prefix": "BRD-PODCAST-PACKAGES"
+    },
+    {
+      "code": "20-001",
+      "parentNumber": 20,
+      "nameEn": "Whoosh",
+      "group": "Audio Assets",
+      "prefix": "SFX-WHOOSH"
+    },
+    {
+      "code": "20-002",
+      "parentNumber": 20,
+      "nameEn": "Swoosh",
+      "group": "Audio Assets",
+      "prefix": "SFX-SWOOSH"
+    },
+    {
+      "code": "20-003",
+      "parentNumber": 20,
+      "nameEn": "Impact",
+      "group": "Audio Assets",
+      "prefix": "SFX-IMPACT"
+    },
+    {
+      "code": "20-004",
+      "parentNumber": 20,
+      "nameEn": "Hit",
+      "group": "Audio Assets",
+      "prefix": "SFX-HIT"
+    },
+    {
+      "code": "20-005",
+      "parentNumber": 20,
+      "nameEn": "Boom",
+      "group": "Audio Assets",
+      "prefix": "SFX-BOOM"
+    },
+    {
+      "code": "20-006",
+      "parentNumber": 20,
+      "nameEn": "Riser",
+      "group": "Audio Assets",
+      "prefix": "SFX-RISER"
+    },
+    {
+      "code": "20-007",
+      "parentNumber": 20,
+      "nameEn": "Downer",
+      "group": "Audio Assets",
+      "prefix": "SFX-DOWNER"
+    },
+    {
+      "code": "20-008",
+      "parentNumber": 20,
+      "nameEn": "Transition",
+      "group": "Audio Assets",
+      "prefix": "SFX-TRANSITION"
+    },
+    {
+      "code": "20-009",
+      "parentNumber": 20,
+      "nameEn": "Glitch",
+      "group": "Audio Assets",
+      "prefix": "SFX-GLITCH"
+    },
+    {
+      "code": "20-010",
+      "parentNumber": 20,
+      "nameEn": "UI Click",
+      "group": "Audio Assets",
+      "prefix": "SFX-UI-CLICK"
+    },
+    {
+      "code": "20-011",
+      "parentNumber": 20,
+      "nameEn": "Notification",
+      "group": "Audio Assets",
+      "prefix": "SFX-NOTIFICATION"
+    },
+    {
+      "code": "20-012",
+      "parentNumber": 20,
+      "nameEn": "Sci-Fi",
+      "group": "Audio Assets",
+      "prefix": "SFX-SCI-FI"
+    },
+    {
+      "code": "20-013",
+      "parentNumber": 20,
+      "nameEn": "Horror",
+      "group": "Audio Assets",
+      "prefix": "SFX-HORROR"
+    },
+    {
+      "code": "20-014",
+      "parentNumber": 20,
+      "nameEn": "Cinematic",
+      "group": "Audio Assets",
+      "prefix": "SFX-CINEMATIC"
+    },
+    {
+      "code": "20-015",
+      "parentNumber": 20,
+      "nameEn": "Explosion",
+      "group": "Audio Assets",
+      "prefix": "SFX-EXPLOSION"
+    },
+    {
+      "code": "20-016",
+      "parentNumber": 20,
+      "nameEn": "Fire",
+      "group": "Audio Assets",
+      "prefix": "SFX-FIRE"
+    },
+    {
+      "code": "20-017",
+      "parentNumber": 20,
+      "nameEn": "Gunshots",
+      "group": "Audio Assets",
+      "prefix": "SFX-GUNSHOTS"
+    },
+    {
+      "code": "20-018",
+      "parentNumber": 20,
+      "nameEn": "Footsteps",
+      "group": "Audio Assets",
+      "prefix": "SFX-FOOTSTEPS"
+    },
+    {
+      "code": "20-019",
+      "parentNumber": 20,
+      "nameEn": "Nature",
+      "group": "Audio Assets",
+      "prefix": "SFX-NATURE"
+    },
+    {
+      "code": "20-020",
+      "parentNumber": 20,
+      "nameEn": "Rain",
+      "group": "Audio Assets",
+      "prefix": "SFX-RAIN"
+    },
+    {
+      "code": "20-021",
+      "parentNumber": 20,
+      "nameEn": "Wind",
+      "group": "Audio Assets",
+      "prefix": "SFX-WIND"
+    },
+    {
+      "code": "20-022",
+      "parentNumber": 20,
+      "nameEn": "Water",
+      "group": "Audio Assets",
+      "prefix": "SFX-WATER"
+    },
+    {
+      "code": "20-023",
+      "parentNumber": 20,
+      "nameEn": "Crowd",
+      "group": "Audio Assets",
+      "prefix": "SFX-CROWD"
+    },
+    {
+      "code": "20-024",
+      "parentNumber": 20,
+      "nameEn": "Vehicles",
+      "group": "Audio Assets",
+      "prefix": "SFX-VEHICLES"
+    },
+    {
+      "code": "20-025",
+      "parentNumber": 20,
+      "nameEn": "Mechanical",
+      "group": "Audio Assets",
+      "prefix": "SFX-MECHANICAL"
+    },
+    {
+      "code": "20-026",
+      "parentNumber": 20,
+      "nameEn": "Foley",
+      "group": "Audio Assets",
+      "prefix": "SFX-FOLEY"
+    },
+    {
+      "code": "20-027",
+      "parentNumber": 20,
+      "nameEn": "Digital",
+      "group": "Audio Assets",
+      "prefix": "SFX-DIGITAL"
+    },
+    {
+      "code": "20-028",
+      "parentNumber": 20,
+      "nameEn": "Magic",
+      "group": "Audio Assets",
+      "prefix": "SFX-MAGIC"
+    },
+    {
+      "code": "21-001",
+      "parentNumber": 21,
+      "nameEn": "Cinematic",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-CINEMATIC"
+    },
+    {
+      "code": "21-002",
+      "parentNumber": 21,
+      "nameEn": "Epic",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-EPIC"
+    },
+    {
+      "code": "21-003",
+      "parentNumber": 21,
+      "nameEn": "Trailer",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-TRAILER"
+    },
+    {
+      "code": "21-004",
+      "parentNumber": 21,
+      "nameEn": "Ambient",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-AMBIENT"
+    },
+    {
+      "code": "21-005",
+      "parentNumber": 21,
+      "nameEn": "Lo-Fi",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-LO-FI"
+    },
+    {
+      "code": "21-006",
+      "parentNumber": 21,
+      "nameEn": "Electronic",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-ELECTRONIC"
+    },
+    {
+      "code": "21-007",
+      "parentNumber": 21,
+      "nameEn": "Corporate",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-CORPORATE"
+    },
+    {
+      "code": "21-008",
+      "parentNumber": 21,
+      "nameEn": "Chill",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-CHILL"
+    },
+    {
+      "code": "21-009",
+      "parentNumber": 21,
+      "nameEn": "Hip-Hop",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-HIP-HOP"
+    },
+    {
+      "code": "21-010",
+      "parentNumber": 21,
+      "nameEn": "Rock",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-ROCK"
+    },
+    {
+      "code": "21-011",
+      "parentNumber": 21,
+      "nameEn": "Piano",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-PIANO"
+    },
+    {
+      "code": "21-012",
+      "parentNumber": 21,
+      "nameEn": "Orchestral",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-ORCHESTRAL"
+    },
+    {
+      "code": "21-013",
+      "parentNumber": 21,
+      "nameEn": "Suspense",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-SUSPENSE"
+    },
+    {
+      "code": "21-014",
+      "parentNumber": 21,
+      "nameEn": "Horror",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-HORROR"
+    },
+    {
+      "code": "21-015",
+      "parentNumber": 21,
+      "nameEn": "Romantic",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-ROMANTIC"
+    },
+    {
+      "code": "21-016",
+      "parentNumber": 21,
+      "nameEn": "Wedding",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-WEDDING"
+    },
+    {
+      "code": "21-017",
+      "parentNumber": 21,
+      "nameEn": "Travel",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-TRAVEL"
+    },
+    {
+      "code": "21-018",
+      "parentNumber": 21,
+      "nameEn": "Sports",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-SPORTS"
+    },
+    {
+      "code": "21-019",
+      "parentNumber": 21,
+      "nameEn": "Motivational",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-MOTIVATIONAL"
+    },
+    {
+      "code": "21-020",
+      "parentNumber": 21,
+      "nameEn": "Meditation",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-MEDITATION"
+    },
+    {
+      "code": "21-021",
+      "parentNumber": 21,
+      "nameEn": "Percussion",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-PERCUSSION"
+    },
+    {
+      "code": "21-022",
+      "parentNumber": 21,
+      "nameEn": "Drum Loops",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-DRUM-LOOPS"
+    },
+    {
+      "code": "21-023",
+      "parentNumber": 21,
+      "nameEn": "Stingers",
+      "group": "Audio Assets",
+      "prefix": "MUSIC-STINGERS"
+    },
+    {
+      "code": "22-001",
+      "parentNumber": 22,
+      "nameEn": "Animated Icons",
+      "group": "Design & 3D",
+      "prefix": "MGE-ANIMATED-ICONS"
+    },
+    {
+      "code": "22-002",
+      "parentNumber": 22,
+      "nameEn": "Arrows",
+      "group": "Design & 3D",
+      "prefix": "MGE-ARROWS"
+    },
+    {
+      "code": "22-003",
+      "parentNumber": 22,
+      "nameEn": "Shapes",
+      "group": "Design & 3D",
+      "prefix": "MGE-SHAPES"
+    },
+    {
+      "code": "22-004",
+      "parentNumber": 22,
+      "nameEn": "Lines",
+      "group": "Design & 3D",
+      "prefix": "MGE-LINES"
+    },
+    {
+      "code": "22-005",
+      "parentNumber": 22,
+      "nameEn": "Circles",
+      "group": "Design & 3D",
+      "prefix": "MGE-CIRCLES"
+    },
+    {
+      "code": "22-006",
+      "parentNumber": 22,
+      "nameEn": "Geometric",
+      "group": "Design & 3D",
+      "prefix": "MGE-GEOMETRIC"
+    },
+    {
+      "code": "22-007",
+      "parentNumber": 22,
+      "nameEn": "Callouts",
+      "group": "Design & 3D",
+      "prefix": "MGE-CALLOUTS"
+    },
+    {
+      "code": "22-008",
+      "parentNumber": 22,
+      "nameEn": "UI Elements",
+      "group": "Design & 3D",
+      "prefix": "MGE-UI-ELEMENTS"
+    },
+    {
+      "code": "22-009",
+      "parentNumber": 22,
+      "nameEn": "HUD Elements",
+      "group": "Design & 3D",
+      "prefix": "MGE-HUD-ELEMENTS"
+    },
+    {
+      "code": "22-010",
+      "parentNumber": 22,
+      "nameEn": "Speech Bubbles",
+      "group": "Design & 3D",
+      "prefix": "MGE-SPEECH-BUBBLES"
+    },
+    {
+      "code": "22-011",
+      "parentNumber": 22,
+      "nameEn": "Social Icons",
+      "group": "Design & 3D",
+      "prefix": "MGE-SOCIAL-ICONS"
+    },
+    {
+      "code": "22-012",
+      "parentNumber": 22,
+      "nameEn": "Animated Stickers",
+      "group": "Design & 3D",
+      "prefix": "MGE-ANIMATED-STICKERS"
+    },
+    {
+      "code": "22-013",
+      "parentNumber": 22,
+      "nameEn": "Symbols",
+      "group": "Design & 3D",
+      "prefix": "MGE-SYMBOLS"
+    },
+    {
+      "code": "22-014",
+      "parentNumber": 22,
+      "nameEn": "Progress Indicators",
+      "group": "Design & 3D",
+      "prefix": "MGE-PROGRESS-INDICATORS"
+    },
+    {
+      "code": "22-015",
+      "parentNumber": 22,
+      "nameEn": "Animated Frames",
+      "group": "Design & 3D",
+      "prefix": "MGE-ANIMATED-FRAMES"
+    },
+    {
+      "code": "22-016",
+      "parentNumber": 22,
+      "nameEn": "Checkmarks",
+      "group": "Design & 3D",
+      "prefix": "MGE-CHECKMARKS"
+    },
+    {
+      "code": "22-017",
+      "parentNumber": 22,
+      "nameEn": "Notifications",
+      "group": "Design & 3D",
+      "prefix": "MGE-NOTIFICATIONS"
+    },
+    {
+      "code": "22-018",
+      "parentNumber": 22,
+      "nameEn": "Decorative Elements",
+      "group": "Design & 3D",
+      "prefix": "MGE-DECORATIVE-ELEMENTS"
+    },
+    {
+      "code": "23-001",
+      "parentNumber": 23,
+      "nameEn": "PNG Elements",
+      "group": "Design & 3D",
+      "prefix": "DES-PNG-ELEMENTS"
+    },
+    {
+      "code": "23-002",
+      "parentNumber": 23,
+      "nameEn": "Vector",
+      "group": "Design & 3D",
+      "prefix": "DES-VECTOR"
+    },
+    {
+      "code": "23-003",
+      "parentNumber": 23,
+      "nameEn": "Icons",
+      "group": "Design & 3D",
+      "prefix": "DES-ICONS"
+    },
+    {
+      "code": "23-004",
+      "parentNumber": 23,
+      "nameEn": "PSD Templates",
+      "group": "Design & 3D",
+      "prefix": "DES-PSD-TEMPLATES"
+    },
+    {
+      "code": "23-005",
+      "parentNumber": 23,
+      "nameEn": "Mockups",
+      "group": "Design & 3D",
+      "prefix": "DES-MOCKUPS"
+    },
+    {
+      "code": "23-006",
+      "parentNumber": 23,
+      "nameEn": "Frames",
+      "group": "Design & 3D",
+      "prefix": "DES-FRAMES"
+    },
+    {
+      "code": "23-007",
+      "parentNumber": 23,
+      "nameEn": "Borders",
+      "group": "Design & 3D",
+      "prefix": "DES-BORDERS"
+    },
+    {
+      "code": "23-008",
+      "parentNumber": 23,
+      "nameEn": "Brushes",
+      "group": "Design & 3D",
+      "prefix": "DES-BRUSHES"
+    },
+    {
+      "code": "23-009",
+      "parentNumber": 23,
+      "nameEn": "Patterns",
+      "group": "Design & 3D",
+      "prefix": "DES-PATTERNS"
+    },
+    {
+      "code": "23-010",
+      "parentNumber": 23,
+      "nameEn": "Gradients",
+      "group": "Design & 3D",
+      "prefix": "DES-GRADIENTS"
+    },
+    {
+      "code": "23-011",
+      "parentNumber": 23,
+      "nameEn": "Shapes",
+      "group": "Design & 3D",
+      "prefix": "DES-SHAPES"
+    },
+    {
+      "code": "23-012",
+      "parentNumber": 23,
+      "nameEn": "Stickers",
+      "group": "Design & 3D",
+      "prefix": "DES-STICKERS"
+    },
+    {
+      "code": "23-013",
+      "parentNumber": 23,
+      "nameEn": "Banners",
+      "group": "Design & 3D",
+      "prefix": "DES-BANNERS"
+    },
+    {
+      "code": "23-014",
+      "parentNumber": 23,
+      "nameEn": "Thumbnails",
+      "group": "Design & 3D",
+      "prefix": "DES-THUMBNAILS"
+    },
+    {
+      "code": "23-015",
+      "parentNumber": 23,
+      "nameEn": "Social Media Kits",
+      "group": "Design & 3D",
+      "prefix": "DES-SOCIAL-MEDIA-KITS"
+    },
+    {
+      "code": "23-016",
+      "parentNumber": 23,
+      "nameEn": "UI Kits",
+      "group": "Design & 3D",
+      "prefix": "DES-UI-KITS"
+    },
+    {
+      "code": "23-017",
+      "parentNumber": 23,
+      "nameEn": "Photo Overlays",
+      "group": "Design & 3D",
+      "prefix": "DES-PHOTO-OVERLAYS"
+    },
+    {
+      "code": "23-018",
+      "parentNumber": 23,
+      "nameEn": "Background Images",
+      "group": "Design & 3D",
+      "prefix": "DES-BACKGROUND-IMAGES"
+    },
+    {
+      "code": "23-019",
+      "parentNumber": 23,
+      "nameEn": "Posters",
+      "group": "Design & 3D",
+      "prefix": "DES-POSTERS"
+    },
+    {
+      "code": "23-020",
+      "parentNumber": 23,
+      "nameEn": "Photoshop Actions",
+      "group": "Design & 3D",
+      "prefix": "DES-PHOTOSHOP-ACTIONS"
+    },
+    {
+      "code": "24-001",
+      "parentNumber": 24,
+      "nameEn": "Sans Serif",
+      "group": "Design & 3D",
+      "prefix": "FONT-SANS-SERIF"
+    },
+    {
+      "code": "24-002",
+      "parentNumber": 24,
+      "nameEn": "Serif",
+      "group": "Design & 3D",
+      "prefix": "FONT-SERIF"
+    },
+    {
+      "code": "24-003",
+      "parentNumber": 24,
+      "nameEn": "Display",
+      "group": "Design & 3D",
+      "prefix": "FONT-DISPLAY"
+    },
+    {
+      "code": "24-004",
+      "parentNumber": 24,
+      "nameEn": "Modern",
+      "group": "Design & 3D",
+      "prefix": "FONT-MODERN"
+    },
+    {
+      "code": "24-005",
+      "parentNumber": 24,
+      "nameEn": "Minimal",
+      "group": "Design & 3D",
+      "prefix": "FONT-MINIMAL"
+    },
+    {
+      "code": "24-006",
+      "parentNumber": 24,
+      "nameEn": "Futuristic",
+      "group": "Design & 3D",
+      "prefix": "FONT-FUTURISTIC"
+    },
+    {
+      "code": "24-007",
+      "parentNumber": 24,
+      "nameEn": "Tech",
+      "group": "Design & 3D",
+      "prefix": "FONT-TECH"
+    },
+    {
+      "code": "24-008",
+      "parentNumber": 24,
+      "nameEn": "Cinematic",
+      "group": "Design & 3D",
+      "prefix": "FONT-CINEMATIC"
+    },
+    {
+      "code": "24-009",
+      "parentNumber": 24,
+      "nameEn": "Luxury",
+      "group": "Design & 3D",
+      "prefix": "FONT-LUXURY"
+    },
+    {
+      "code": "24-010",
+      "parentNumber": 24,
+      "nameEn": "Handwritten",
+      "group": "Design & 3D",
+      "prefix": "FONT-HANDWRITTEN"
+    },
+    {
+      "code": "24-011",
+      "parentNumber": 24,
+      "nameEn": "Brush",
+      "group": "Design & 3D",
+      "prefix": "FONT-BRUSH"
+    },
+    {
+      "code": "24-012",
+      "parentNumber": 24,
+      "nameEn": "Calligraphy",
+      "group": "Design & 3D",
+      "prefix": "FONT-CALLIGRAPHY"
+    },
+    {
+      "code": "24-013",
+      "parentNumber": 24,
+      "nameEn": "Retro",
+      "group": "Design & 3D",
+      "prefix": "FONT-RETRO"
+    },
+    {
+      "code": "24-014",
+      "parentNumber": 24,
+      "nameEn": "Vintage",
+      "group": "Design & 3D",
+      "prefix": "FONT-VINTAGE"
+    },
+    {
+      "code": "24-015",
+      "parentNumber": 24,
+      "nameEn": "Horror",
+      "group": "Design & 3D",
+      "prefix": "FONT-HORROR"
+    },
+    {
+      "code": "24-016",
+      "parentNumber": 24,
+      "nameEn": "Glitch",
+      "group": "Design & 3D",
+      "prefix": "FONT-GLITCH"
+    },
+    {
+      "code": "24-017",
+      "parentNumber": 24,
+      "nameEn": "3D",
+      "group": "Design & 3D",
+      "prefix": "FONT-3D"
+    },
+    {
+      "code": "24-018",
+      "parentNumber": 24,
+      "nameEn": "Persian Fonts",
+      "group": "Design & 3D",
+      "prefix": "FONT-PERSIAN-FONTS"
+    },
+    {
+      "code": "24-019",
+      "parentNumber": 24,
+      "nameEn": "Arabic Fonts",
+      "group": "Design & 3D",
+      "prefix": "FONT-ARABIC-FONTS"
+    },
+    {
+      "code": "24-020",
+      "parentNumber": 24,
+      "nameEn": "Font Collections",
+      "group": "Design & 3D",
+      "prefix": "FONT-FONT-COLLECTIONS"
+    },
+    {
+      "code": "25-001",
+      "parentNumber": 25,
+      "nameEn": "3D Models",
+      "group": "Design & 3D",
+      "prefix": "3D-3D-MODELS"
+    },
+    {
+      "code": "25-002",
+      "parentNumber": 25,
+      "nameEn": "Objects",
+      "group": "Design & 3D",
+      "prefix": "3D-OBJECTS"
+    },
+    {
+      "code": "25-003",
+      "parentNumber": 25,
+      "nameEn": "Characters",
+      "group": "Design & 3D",
+      "prefix": "3D-CHARACTERS"
+    },
+    {
+      "code": "25-004",
+      "parentNumber": 25,
+      "nameEn": "Vehicles",
+      "group": "Design & 3D",
+      "prefix": "3D-VEHICLES"
+    },
+    {
+      "code": "25-005",
+      "parentNumber": 25,
+      "nameEn": "Buildings",
+      "group": "Design & 3D",
+      "prefix": "3D-BUILDINGS"
+    },
+    {
+      "code": "25-006",
+      "parentNumber": 25,
+      "nameEn": "Environments",
+      "group": "Design & 3D",
+      "prefix": "3D-ENVIRONMENTS"
+    },
+    {
+      "code": "25-007",
+      "parentNumber": 25,
+      "nameEn": "Sci-Fi",
+      "group": "Design & 3D",
+      "prefix": "3D-SCI-FI"
+    },
+    {
+      "code": "25-008",
+      "parentNumber": 25,
+      "nameEn": "Abstract",
+      "group": "Design & 3D",
+      "prefix": "3D-ABSTRACT"
+    },
+    {
+      "code": "25-009",
+      "parentNumber": 25,
+      "nameEn": "3D Logos",
+      "group": "Design & 3D",
+      "prefix": "3D-3D-LOGOS"
+    },
+    {
+      "code": "25-010",
+      "parentNumber": 25,
+      "nameEn": "3D Text",
+      "group": "Design & 3D",
+      "prefix": "3D-3D-TEXT"
+    },
+    {
+      "code": "25-011",
+      "parentNumber": 25,
+      "nameEn": "Materials",
+      "group": "Design & 3D",
+      "prefix": "3D-MATERIALS"
+    },
+    {
+      "code": "25-012",
+      "parentNumber": 25,
+      "nameEn": "PBR Textures",
+      "group": "Design & 3D",
+      "prefix": "3D-PBR-TEXTURES"
+    },
+    {
+      "code": "25-013",
+      "parentNumber": 25,
+      "nameEn": "HDRI",
+      "group": "Design & 3D",
+      "prefix": "3D-HDRI"
+    },
+    {
+      "code": "25-014",
+      "parentNumber": 25,
+      "nameEn": "Lighting",
+      "group": "Design & 3D",
+      "prefix": "3D-LIGHTING"
+    },
+    {
+      "code": "25-015",
+      "parentNumber": 25,
+      "nameEn": "Particles",
+      "group": "Design & 3D",
+      "prefix": "3D-PARTICLES"
+    },
+    {
+      "code": "25-016",
+      "parentNumber": 25,
+      "nameEn": "3D Scenes",
+      "group": "Design & 3D",
+      "prefix": "3D-3D-SCENES"
+    },
+    {
+      "code": "25-017",
+      "parentNumber": 25,
+      "nameEn": "Blender Assets",
+      "group": "Design & 3D",
+      "prefix": "3D-BLENDER-ASSETS"
+    },
+    {
+      "code": "25-018",
+      "parentNumber": 25,
+      "nameEn": "Cinema 4D Assets",
+      "group": "Design & 3D",
+      "prefix": "3D-CINEMA-4D-ASSETS"
+    },
+    {
+      "code": "25-019",
+      "parentNumber": 25,
+      "nameEn": "Element 3D Models",
+      "group": "Design & 3D",
+      "prefix": "3D-ELEMENT-3D-MODELS"
+    },
+    {
+      "code": "26-001",
+      "parentNumber": 26,
+      "nameEn": "After Effects Plugins",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-AFTER-EFFECTS-PLUGINS"
+    },
+    {
+      "code": "26-002",
+      "parentNumber": 26,
+      "nameEn": "Premiere Plugins",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-PREMIERE-PLUGINS"
+    },
+    {
+      "code": "26-003",
+      "parentNumber": 26,
+      "nameEn": "Scripts",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-SCRIPTS"
+    },
+    {
+      "code": "26-004",
+      "parentNumber": 26,
+      "nameEn": "Expressions",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-EXPRESSIONS"
+    },
+    {
+      "code": "26-005",
+      "parentNumber": 26,
+      "nameEn": "Extensions",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-EXTENSIONS"
+    },
+    {
+      "code": "26-006",
+      "parentNumber": 26,
+      "nameEn": "Panels",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-PANELS"
+    },
+    {
+      "code": "26-007",
+      "parentNumber": 26,
+      "nameEn": "Automation Tools",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-AUTOMATION-TOOLS"
+    },
+    {
+      "code": "26-008",
+      "parentNumber": 26,
+      "nameEn": "Motion Tools",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-MOTION-TOOLS"
+    },
+    {
+      "code": "26-009",
+      "parentNumber": 26,
+      "nameEn": "Tracking",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-TRACKING"
+    },
+    {
+      "code": "26-010",
+      "parentNumber": 26,
+      "nameEn": "Rotoscoping",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-ROTOSCOPING"
+    },
+    {
+      "code": "26-011",
+      "parentNumber": 26,
+      "nameEn": "Particles",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-PARTICLES"
+    },
+    {
+      "code": "26-012",
+      "parentNumber": 26,
+      "nameEn": "3D Tools",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-3D-TOOLS"
+    },
+    {
+      "code": "26-013",
+      "parentNumber": 26,
+      "nameEn": "Rendering",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-RENDERING"
+    },
+    {
+      "code": "26-014",
+      "parentNumber": 26,
+      "nameEn": "Color Tools",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-COLOR-TOOLS"
+    },
+    {
+      "code": "26-015",
+      "parentNumber": 26,
+      "nameEn": "Audio Tools",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-AUDIO-TOOLS"
+    },
+    {
+      "code": "26-016",
+      "parentNumber": 26,
+      "nameEn": "Workflow Tools",
+      "group": "Tools & Other Apps",
+      "prefix": "TOOL-WORKFLOW-TOOLS"
+    },
+    {
+      "code": "27-001",
+      "parentNumber": 27,
+      "nameEn": "Resolve Templates",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-RESOLVE-TEMPLATES"
+    },
+    {
+      "code": "27-002",
+      "parentNumber": 27,
+      "nameEn": "Fusion Titles",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-FUSION-TITLES"
+    },
+    {
+      "code": "27-003",
+      "parentNumber": 27,
+      "nameEn": "Fusion Transitions",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-FUSION-TRANSITIONS"
+    },
+    {
+      "code": "27-004",
+      "parentNumber": 27,
+      "nameEn": "Fusion Effects",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-FUSION-EFFECTS"
+    },
+    {
+      "code": "27-005",
+      "parentNumber": 27,
+      "nameEn": "PowerGrades",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-POWERGRADES"
+    },
+    {
+      "code": "27-006",
+      "parentNumber": 27,
+      "nameEn": "Color Presets",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-COLOR-PRESETS"
+    },
+    {
+      "code": "27-007",
+      "parentNumber": 27,
+      "nameEn": "Intros",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-INTROS"
+    },
+    {
+      "code": "27-008",
+      "parentNumber": 27,
+      "nameEn": "Outros",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-OUTROS"
+    },
+    {
+      "code": "27-009",
+      "parentNumber": 27,
+      "nameEn": "Slideshow",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-SLIDESHOW"
+    },
+    {
+      "code": "27-010",
+      "parentNumber": 27,
+      "nameEn": "Logo Reveal",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-LOGO-REVEAL"
+    },
+    {
+      "code": "27-011",
+      "parentNumber": 27,
+      "nameEn": "Macros",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-MACROS"
+    },
+    {
+      "code": "27-012",
+      "parentNumber": 27,
+      "nameEn": "DRFX",
+      "group": "Tools & Other Apps",
+      "prefix": "DR-DRFX"
+    },
+    {
+      "code": "28-001",
+      "parentNumber": 28,
+      "nameEn": "Final Cut Templates",
+      "group": "Tools & Other Apps",
+      "prefix": "FCP-FINAL-CUT-TEMPLATES"
+    },
+    {
+      "code": "28-002",
+      "parentNumber": 28,
+      "nameEn": "Titles",
+      "group": "Tools & Other Apps",
+      "prefix": "FCP-TITLES"
+    },
+    {
+      "code": "28-003",
+      "parentNumber": 28,
+      "nameEn": "Transitions",
+      "group": "Tools & Other Apps",
+      "prefix": "FCP-TRANSITIONS"
+    },
+    {
+      "code": "28-004",
+      "parentNumber": 28,
+      "nameEn": "Effects",
+      "group": "Tools & Other Apps",
+      "prefix": "FCP-EFFECTS"
+    },
+    {
+      "code": "28-005",
+      "parentNumber": 28,
+      "nameEn": "Generators",
+      "group": "Tools & Other Apps",
+      "prefix": "FCP-GENERATORS"
+    },
+    {
+      "code": "28-006",
+      "parentNumber": 28,
+      "nameEn": "Slideshow",
+      "group": "Tools & Other Apps",
+      "prefix": "FCP-SLIDESHOW"
+    },
+    {
+      "code": "28-007",
+      "parentNumber": 28,
+      "nameEn": "Logo Reveal",
+      "group": "Tools & Other Apps",
+      "prefix": "FCP-LOGO-REVEAL"
+    },
+    {
+      "code": "28-008",
+      "parentNumber": 28,
+      "nameEn": "Lower Thirds",
+      "group": "Tools & Other Apps",
+      "prefix": "FCP-LOWER-THIRDS"
+    },
+    {
+      "code": "28-009",
+      "parentNumber": 28,
+      "nameEn": "Motion Templates",
+      "group": "Tools & Other Apps",
+      "prefix": "FCP-MOTION-TEMPLATES"
+    },
+    {
+      "code": "28-010",
+      "parentNumber": 28,
+      "nameEn": "FCP Presets",
+      "group": "Tools & Other Apps",
+      "prefix": "FCP-FCP-PRESETS"
+    },
+    {
+      "code": "29-001",
+      "parentNumber": 29,
+      "nameEn": "CapCut Templates",
+      "group": "Tools & Other Apps",
+      "prefix": "MB-CAPCUT-TEMPLATES"
+    },
+    {
+      "code": "29-002",
+      "parentNumber": 29,
+      "nameEn": "Alight Motion Presets",
+      "group": "Tools & Other Apps",
+      "prefix": "MB-ALIGHT-MOTION-PRESETS"
+    },
+    {
+      "code": "29-003",
+      "parentNumber": 29,
+      "nameEn": "Mobile Transitions",
+      "group": "Tools & Other Apps",
+      "prefix": "MB-MOBILE-TRANSITIONS"
+    },
+    {
+      "code": "29-004",
+      "parentNumber": 29,
+      "nameEn": "Mobile Overlays",
+      "group": "Tools & Other Apps",
+      "prefix": "MB-MOBILE-OVERLAYS"
+    },
+    {
+      "code": "29-005",
+      "parentNumber": 29,
+      "nameEn": "Reels Templates",
+      "group": "Tools & Other Apps",
+      "prefix": "MB-REELS-TEMPLATES"
+    },
+    {
+      "code": "29-006",
+      "parentNumber": 29,
+      "nameEn": "Short Video Templates",
+      "group": "Tools & Other Apps",
+      "prefix": "MB-SHORT-VIDEO-TEMPLATES"
+    },
+    {
+      "code": "29-007",
+      "parentNumber": 29,
+      "nameEn": "Mobile LUTs",
+      "group": "Tools & Other Apps",
+      "prefix": "MB-MOBILE-LUTS"
+    },
+    {
+      "code": "29-008",
+      "parentNumber": 29,
+      "nameEn": "PNG Elements",
+      "group": "Tools & Other Apps",
+      "prefix": "MB-PNG-ELEMENTS"
+    },
+    {
+      "code": "29-009",
+      "parentNumber": 29,
+      "nameEn": "Mobile Effects",
+      "group": "Tools & Other Apps",
+      "prefix": "MB-MOBILE-EFFECTS"
+    },
+    {
+      "code": "24-021",
+      "parentNumber": 24,
+      "nameEn": "English Fonts",
+      "group": "Design & 3D",
+      "prefix": "FONT-ENGLISH-FONTS"
+    }
+  ]
+}

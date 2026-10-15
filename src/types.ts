@@ -1,0 +1,9 @@
+export type Category={id:number;code:string;parentId:number|null;nameFa:string;nameEn:string;slug:string;groupKey:string|null;active:boolean;sortOrder:number;_count:{products:number;children:number}};
+export type FileRow={id?:number;label:string;privateUrl:string;fileName:string|null};
+export type Product={id:number;sku:string;categoryId:number;category?:{nameFa:string;nameEn:string};titleFa:string;titleEn:string;descriptionFa:string;descriptionEn:string;type:'PACK'|'SINGLE';status:'DRAFT'|'PUBLISHED'|'HIDDEN'|'ARCHIVED';accessType:'FREE'|'PURCHASE'|'PRO'|'PURCHASE_OR_PRO';rightsVerified:boolean;starsPrice:number|null;coverUrl:string|null;previewUrl:string|null;fileFormat:string|null;fileCount:number|null;fileSizeMb:number|null;resolution:string|null;fps:number|null;software:string|null;tags:string;sortOrder:number;files:FileRow[];createdAt:string;updatedAt:string};
+export type Paged<T>={rows:T[];total:number;page:number;pages:number};
+export type Order={id:string;status:string;amountXtr:number;createdAt:string;paidAt:string|null;product:{titleFa:string;sku:string};user:{telegramId:string;displayName:string|null};payments:{telegramPaymentChargeId:string;refundStatus:string}[]};
+export type User={id:number;telegramId:string;displayName:string|null;language:string;isBlocked:boolean;createdAt:string;_count:{orders:number;entitlements:number}};
+export type Log={id:number;action:string;entity:string;entityId:string|null;detail:string|null;createdAt:string;adminId:number|null};
+export type Settings={STORE_NAME:string;SUPPORT_USERNAME:string;PRO_CHANNEL_ID:string;PRO_PRICE_XTR:string;PRO_INVITE_LINK:string;ALLOW_ARCHIVED_DOWNLOADS:string};
+export type Dashboard={products:number;published:number;drafts:number;categories:number;users:number;paidOrders:number;totalStars:number;recent:Order[];proConfigured:boolean};
